@@ -46,6 +46,9 @@
 ## 围绕DeepSeek V4.1，昇腾950端到端训推参考实践分享系列
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261016 | 基于950超节点的万亿MoE模型预训练参考实践 | sig-torchtitan-npu | [链接](./slides/sig-torchtitan-npu/20261016) | [链接](https://www.bilibili.com/video/BV13CJX6pECD) |
+| 20261015 | Ascend 950高性能融合算子设计与开发 | sig-cannbot | [链接](./slides/sig-cannbot/20261015) | [链接](https://www.bilibili.com/video/BV1jfJy6gEQE) |
+| 20261014 | Ascend 950支撑Agentic实现高性能推理 | sig-recipes | [链接](./slides/sig-recipes/20261014) | [链接](https://www.bilibili.com/video/BV1a9p16VEbZ) |
 | 20261013 | Ascend 950极低时延加速技巧：自定义通信编程与单机推理优化 | - | [链接](./slides/DeepSeek/20261013) | [链接](https://www.bilibili.com/video/BV1ztWw6NEie/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 
 ## CANN开源开放系列直播
