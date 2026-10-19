@@ -121,4 +121,5 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 仓库地址：
 - https://gitcode.com/cann/pypto
 - https://gitcode.com/cann/pypto-gym
+- https://gitcode.com/cann/pypto-vscode
 - https://gitcode.com/cann/pto-isa
