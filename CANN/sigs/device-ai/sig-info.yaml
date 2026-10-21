@@ -1,0 +1,22 @@
+name: device-ai
+description: 基于CANN在Kirin、昇腾等端、边芯片上，提供轻量、低延迟、低内存占用的LLM、VLM等大模型推理能力，含大模型转换工具与端到端推理引擎。
+mailing_list: device-ai@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-device-ai
+committers: []
+repositories:
+- repo:
+  - cann/cann-device-lm
+  committers:
+  - gitcode_id: jxkongyue
+  - gitcode_id: LiuXinxin23
+  - gitcode_id: shengnan666
+  - gitcode_id: luhengh
+  - gitcode_id: airbak
+  - gitcode_id: tonganping
+  - gitcode_id: wdongming
+  - gitcode_id: yuchen97
+  - gitcode_id: Rayz62
+  - gitcode_id: zhouxiangyan
+  - gitcode_id: yanjiang-treasure
+  - gitcode_id: dw11705
+  entry_configs: []
