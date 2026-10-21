@@ -106,7 +106,7 @@ repositories:
   entry_configs: []
 
 - repo:
-  - cann/its-trip-app
+  - cann/its-trip-samples
   committers:
   - gitcode_id: JNSYY
     name: 史云阳

@@ -43,7 +43,7 @@ Intelligent Transportation System SIG 由四个方向组成，整体按照“基
 | 1. 矩阵计算基础 | [its-matrix-computation](https://gitcode.com/cann/its-matrix-computation) | 面向昇腾平台的矩阵计算与 GEMM 分块策略优化 | 为交通仿真、模型训练和推理提供高性能计算基础 |
 | 2. 大模型稳定性 | [its-stable-llm](https://gitcode.com/cann/its-stable-llm) | 面向大模型训练的 micro-batch 稳定性分析 | 帮助交通大模型训练过程更可观测、更稳定 |
 | 3. 交通大模型与决策 | [its-trip](https://gitcode.com/cann/its-trip) | 面向交通事件理解、风险研判、方案生成和仿真验证的核心能力 | 承接计算与稳定性能力，形成交通智能决策引擎 |
-| 4. 行业应用验证 | [its-trip-app](https://gitcode.com/cann/its-trip-app) | 面向交通行业场景的端到端应用参考实现 | 将模型、算法和工具组织为可运行、可复现、可扩展的应用 |
+| 4. 行业应用验证 | [its-trip-samples](https://gitcode.com/cann/its-trip-samples) | 面向交通行业场景的端到端应用参考实现 | 将模型、算法和工具组织为可运行、可复现、可扩展的应用 |
 
 
 ## 交流 (Community)
@@ -154,7 +154,7 @@ Pull Request 通常按以下流程处理：
 - 徐占东 [@ZhandongXu](https://gitcode.com/ZhandongXu), *zhandong.xu@swjtu.edu.cn*
 - 周臻 [@zhenz2020](https://gitcode.com/zhenz2020), *zzhou602@seu.edu.cn*
 
-#### its-trip-app
+#### its-trip-samples
 
 - 史云阳 [@JNSYY](https://gitcode.com/JNSYY), *JNSYY@noreply.gitcode.com*
 - 周臻 [@zhenz2020](https://gitcode.com/zhenz2020), *zzhou602@seu.edu.cn*
