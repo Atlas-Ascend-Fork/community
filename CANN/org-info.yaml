@@ -476,3 +476,21 @@ sigs:
       - gitcode_id: huatee
         name: 程黎明
         email: chengliming@huawei.com
+  
+  - sig_name: device-ai
+    maintainers:
+      - gitcode_id: jxkongyue
+        name: 江潇
+        email: jiangxiao2@huawei.com
+      - gitcode_id: LiuXinxin23
+        name: 刘鑫鑫
+        email: liuxinxin23@hisilicon.com
+      - gitcode_id: shengnan666
+        name: 盛楠
+        email: titan.sheng@huawei.com
+      - gitcode_id: luhengh
+        name: 陆衡
+        email: luheng@huawei.com
+      - gitcode_id: airbak
+        name: 李建辉
+        email: airbak.li@hisilicon.com
