@@ -32,6 +32,8 @@ repositories:
   - gitcode_id: panchao-gitcode
   - gitcode_id: lrwei0709
   - gitcode_id: xuyujun
+  - gitcode_id: hiliPP
+  - gitcode_id: yijie-zhu
   entry_configs: []
 
 - repo:
