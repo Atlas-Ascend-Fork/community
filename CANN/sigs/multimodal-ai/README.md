@@ -38,13 +38,13 @@ Multimodal-AI SIG 围绕以下技术闭环开展建设：
 
 ## 仓库与职责范围
 
-SIG 以 `multimodal-ops` 算子仓为核心：从典型多模态模型中提炼关键计算模式，抽象并实现面向昇腾的高性能多模态算子；在此基础上，`multimodal-samples` 使用这些新算子重构典型多模态模型，验证算子在真实模型链路中的功能与性能收益；而 `multimodal-bench` 则贯穿整个过程，提供算子提炼、实现优化、功能精度与性能评测所需的工具链和基准数据，将评测结果反馈给算子和模型的持续迭代。
+SIG 以 `multimodal-ops` 算子仓为核心：从典型多模态模型中提炼关键计算模式，抽象并实现面向昇腾的高性能多模态算子；在此基础上，`multimodal-samples` 使用这些新算子重构典型多模态模型，验证算子在真实模型链路中的功能与性能收益；而 `multimodal-benchmark` 则贯穿整个过程，提供算子提炼、实现优化、功能精度与性能评测所需的工具链和基准数据，将评测结果反馈给算子和模型的持续迭代。
 
 | 仓库                                                                | 定位            | 职责范围                                                         |
 | ----------------------------------------------------------------- | ------------- | ------------------------------------------------------------ |
 | [multimodal-ops](https://gitcode.com/cann/multimodal-ops)         | 多模态算子核心仓      | 沉淀从多模态模型中抽象出的关键算子和融合算子，开展算子实现、生成、改写、融合及性能优化                  |
 | [multimodal-samples](https://gitcode.com/cann/multimodal-samples) | 模型重构 Sample 仓 | 使用 `multimodal-ops` 中的新算子重构典型多模态模型，提供可运行、可复现的模型 Sample 和使用示例 |
-| [multimodal-bench](https://gitcode.com/cann/multimodal-bench)     | 多模态拆解与评测仓     | 拆解典型多模态模型中的算子需求，沉淀测试工具、数据、规则与评测基线，统一评测多模态算子及重构后模型的功能、精度和性能   |
+| [multimodal-benchmark](https://gitcode.com/cann/multimodal-benchmark)     | 多模态拆解与评测仓     | 拆解典型多模态模型中的算子需求，沉淀测试工具、数据、规则与评测基线，统一评测多模态算子及重构后模型的功能、精度和性能   |
 
 ### multimodal-ops
 
@@ -67,9 +67,9 @@ SIG 以 `multimodal-ops` 算子仓为核心：从典型多模态模型中提炼�
 * 新算子接入前后的功能、精度与性能结果；
 * 面向开发者的算子使用示例和模型重构最佳实践。
 
-### multimodal-bench
+### multimodal-benchmark
 
-`multimodal-bench` 统一承载多模态模型拆解、测试工具、评测规则和评测资产，主要包括：
+`multimodal-benchmark` 统一承载多模态模型拆解、测试工具、评测规则和评测资产，主要包括：
 
 * 典型多模态模型计算图和关键计算链路拆解；
 * 多模态算子需求识别、分类和优先级分析；
@@ -82,7 +82,7 @@ SIG 以 `multimodal-ops` 算子仓为核心：从典型多模态模型中提炼�
 ## 协作边界
 
 * 本 SIG 聚焦多模态模型中的关键计算模式、算子建设、模型重构 Sample 和统一评测；
-* `multimodal-ops` 负责算子资产，`multimodal-samples` 负责基于新算子的模型重构示例，`multimodal-bench` 负责需求拆解和统一评测；
+* `multimodal-ops` 负责算子资产，`multimodal-samples` 负责基于新算子的模型重构示例，`multimodal-benchmark` 负责需求拆解和统一评测；
 * 通用模型工程、完整模型产品和与算子无关的应用功能不纳入本 SIG 的主要范围；
 * CANN 底层编译、运行时、驱动及通用基础能力依托社区现有项目和相关 SIG 协同建设；
 * 已有模型、算子及评测资产的迁移和归属，按照 CANN 社区治理流程及相关项目协作结果推进。

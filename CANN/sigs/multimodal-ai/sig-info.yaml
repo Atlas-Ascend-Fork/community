@@ -51,4 +51,4 @@ repositories:
 - repo:
   - cann/multimodal-ops
   - cann/multimodal-samples
-  - cann/multimodal-bench
+  - cann/multimodal-benchmark
