@@ -273,6 +273,7 @@ repositories:
   - gitcode_id: yue-ma
   - gitcode_id: chenxingyu18
   - gitcode_id: clinglai0517
+  - gitcode_id: onanfield
   entry_configs:
   - path:
     - "*/*/op_host/op_api/*.h"
@@ -332,6 +333,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - conversion/broadcast_to
     - conversion/circular_pad
@@ -398,6 +400,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - conversion/split_v
     committers:
@@ -420,6 +423,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - math/abs
     - math/cast
@@ -463,6 +467,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - math/accumulate_nv2
     - math/acos
@@ -567,6 +572,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - math/add_lora
     - math/transform_bias_rescale_qkv
@@ -592,6 +598,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - math/stft
     committers:
@@ -614,6 +621,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - math/cumsum
     committers:
@@ -636,6 +644,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - math/search_sorted
     - math/right_shift
@@ -660,6 +669,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - math/segsum
     committers:
@@ -685,6 +695,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - math/rfft1_d
     committers:
@@ -706,6 +717,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
   - path:
     - experimental
     committers:
@@ -740,6 +752,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: chenxingyu18
     - gitcode_id: clinglai0517
+    - gitcode_id: onanfield
 - repo:
   - cann/atvoss
   committers:
