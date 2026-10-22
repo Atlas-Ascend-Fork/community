@@ -46,6 +46,9 @@
 ## 围绕DeepSeek V4.1，昇腾950端到端训推参考实践分享系列
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261021 | CANN开源社区Agent能力介绍——模型、TileLang、AMCT开发 | - | [链接](./slides/DeepSeek/20261021) | [链接](https://www.bilibili.com/video/BV1qVnz6bEGG) |
+| 20261020 | 基于Ascend 950 低精量化训练与轻量化推理微调实践 | - | [链接](./slides/DeepSeek/20261020) | [链接](https://www.bilibili.com/video/BV1Aenc6aEtX) |
+| 20261019 | 鲲鹏+昇腾+灵衢协同的Agentic RL参考实践 | - | [链接](./slides/DeepSeek/20261019) | [链接](https://www.bilibili.com/video/BV1aSnJ6AEDX) |
 | 20261016 | 基于950超节点的万亿MoE模型预训练参考实践 | sig-torchtitan-npu | [链接](./slides/sig-torchtitan-npu/20261016) | [链接](https://www.bilibili.com/video/BV13CJX6pECD) |
 | 20261015 | Ascend 950高性能融合算子设计与开发 | sig-cannbot | [链接](./slides/sig-cannbot/20261015) | [链接](https://www.bilibili.com/video/BV1jfJy6gEQE) |
 | 20261014 | Ascend 950支撑Agentic实现高性能推理 | sig-recipes | [链接](./slides/sig-recipes/20261014) | [链接](https://www.bilibili.com/video/BV1a9p16VEbZ) |
