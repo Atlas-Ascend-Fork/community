@@ -58,6 +58,7 @@ repositories:
   - gitcode_id: Mexyy
   - gitcode_id: ClarkXie
   - gitcode_id: tang-haojie
+  - gitcode_id: du-hua1024
   entry_configs:
   - path:
     - inc/external
@@ -167,6 +168,8 @@ repositories:
   - gitcode_id: yangyongqiang0606
   - gitcode_id: zhujingjing
   - gitcode_id: wangxiaotian995
+  - gitcode_id: Mexyy
+  - gitcode_id: du-hua1024
   entry_configs:
   - path:
     - inc/external
@@ -181,3 +184,5 @@ repositories:
   - gitcode_id: shengnan666
   - gitcode_id: medivh-x
   - gitcode_id: zhanj
+  - gitcode_id: guopeian
+  - gitcode_id: Mexyy

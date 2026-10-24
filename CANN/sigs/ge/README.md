@@ -84,6 +84,8 @@ GE SIG 是 CANN 图模式研发的技术兴趣小组，聚焦于**图编译器�
 - 李玥玮[@liyuewei](https://gitcode.com/user/liyuewei),*liyuewei1@huawei.com*
 - 唐豪杰[@tang-haojie](https://gitcode.com/tang-haojie),*tanghaojie1@huawei.com*
 - 谢正恺[@ClarkXie](https://gitcode.com/ClarkXie),*xiezhengkai@huawei.com*
+- 杜花[@du-hua1024](https://gitcode.com/du-hua1024),*duhua2@huawei.com*
+- 郭培安[@guopeian](https://gitcode.com/guopeian),*guopeian1@hisilicon.com*
 
 ## 社区运作
 
