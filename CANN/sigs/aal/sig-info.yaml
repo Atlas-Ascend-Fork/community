@@ -63,6 +63,7 @@ repositories:
   - gitcode_id: nino888
   - gitcode_id: QK_25415
   - gitcode_id: vallenChen
+  - gitcode_id: gcw_CfilvwB1
 - repo:
   - cann/ops-fft
   committers:
@@ -90,3 +91,4 @@ repositories:
   - gitcode_id: MingyiLiu
   - gitcode_id: Splendid2025
   - gitcode_id: QK_25415
+  - gitcode_id: gcw_CfilvwB1
