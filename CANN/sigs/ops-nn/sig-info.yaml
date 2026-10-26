@@ -168,6 +168,9 @@ repositories:
     - gitcode_id: u010470851
       name: 上官秦南
       email: shangguanqinnan@huawei.com
+    - gitcode_id: east_yang
+      name: 杨东
+      email: yangdong48@huawei.com
   - path:
     - quant
     committers:
@@ -306,6 +309,9 @@ repositories:
     - gitcode_id: u010470851
       name: 上官秦南
       email: shangguanqinnan@huawei.com
+    - gitcode_id: east_yang
+      name: 杨东
+      email: yangdong48@huawei.com
   - path:
     - rnn
     - pooling
@@ -532,6 +538,9 @@ repositories:
     - gitcode_id: u010470851
       name: 上官秦南
       email: shangguanqinnan@huawei.com
+    - gitcode_id: east_yang
+      name: 杨东
+      email: yangdong48@huawei.com
   - path:
     - torch_extension
     committers:
