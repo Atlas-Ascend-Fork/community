@@ -1,0 +1,55 @@
+[{
+    "title": "CANN 社区任务",
+    "description": "报名任务赢取万元丰厚奖金！",
+    "btnText": "立即参与",
+    "btnLink": "https://gitcode.com/org/cann/discussions/211",
+    "imgUrl_light": "https://gitcode.com/cann/community/blob/master/events/banner/light/社区任务.png",
+    "imgUrl_dark": "https://gitcode.com/cann/community/blob/master/events/banner/dark/社区任务.png",
+    "index": "1"
+  },
+  {
+    "title": "CANN 开发者体验调研",
+    "description": "邀您一起定义CANN的未来",
+    "btnText": "参与调研",
+    "btnLink": "https://www.hiascend.com/forms/MANYIDU202608?from=5",
+    "imgUrl_light": "https://gitcode.com/cann/community/blob/master/events/banner/light/体验调研.png",
+    "imgUrl_dark": "https://gitcode.com/cann/community/blob/master/events/banner/dark/体验调研.png",
+    "index": "2"
+  },
+  {
+    "title": "DeepSeek V4.1 昇腾950训推实践",
+    "description": "",
+    "btnText": "立刻查看",
+    "btnLink": "https://gitcode.com/org/cann/discussions/315",
+    "imgUrl_light": "https://gitcode.com/cann/community/blob/master/events/banner/light/deepseek.png",
+    "imgUrl_dark": "https://gitcode.com/cann/community/blob/master/events/banner/dark/deepseek.png",
+    "index": "3"
+  },
+  {
+    "title": "昇腾 950 NPU 架构白皮书",
+    "description": "",
+    "btnText": "文档下载",
+    "btnLink": "https://public-download.obs.cn-east-2.myhuaweicloud.com/ascend/昇腾950 NPU架构白皮书.pdf",
+    "imgUrl_light": "https://gitcode.com/cann/community/blob/master/events/banner/light/白皮书.png",
+    "imgUrl_dark": "https://gitcode.com/cann/community/blob/master/events/banner/dark/白皮书.png",
+    "index": "4"
+  },
+  {
+    "title": "积分兑换算力卡时",
+    "description": "打卡成长任务获取CANN专属积分，\n兑换CANNLab算力卡时",
+    "btnText": "兑换算力",
+    "btnLink": "https://gitcode.com/setting/points?task=cann&type=shop&tid=cann",
+    "imgUrl_light": "https://gitcode.com/cann/community/blob/master/events/banner/light/积分兑换.png",
+    "imgUrl_dark": "https://gitcode.com/cann/community/blob/master/events/banner/dark/积分兑换.png",
+    "index": "5"
+  },
+  {
+    "title": "CANN 算子天梯赛火热进行中！",
+    "description": "长期算子性能极限打榜，单赛题月度冠军最高奖励10000",
+    "btnText": "立即报名",
+    "btnLink": "https://competition.gitcode.com/competition/2057085957316272129/intro",
+    "imgUrl_light": "https://gitcode.com/cann/community/blob/master/events/banner/light/技术文章.png",
+    "imgUrl_dark": "https://gitcode.com/cann/community/blob/master/events/banner/dark/技术文章.png",
+    "index": "6"
+  }
+]
