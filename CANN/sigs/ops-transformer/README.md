@@ -79,6 +79,7 @@
 - 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 - 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
+- 周云飞 [@zzzzzzyf_](https://gitcode.com/zzzzzzyf_), *zhouyunfei10@huawei.com*
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
 - 宋炯辉 [@songjionghui](https://gitcode.com/songjionghui), *songjionghui@huawei.com*
 - 王哲 [@wangzhe123456789](https://gitcode.com/wangzhe123456789), *wangzhe92@huawei.com*

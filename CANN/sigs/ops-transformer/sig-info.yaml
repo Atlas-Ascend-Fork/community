@@ -33,6 +33,7 @@ repositories:
     - gitcode_id: gitee-duhuiping
     - gitcode_id: fengying555682
     - gitcode_id: claire8090
+    - gitcode_id: zzzzzzyf_
 
   - path:                               # DT，编译构建等相关公共代码
     - cmake
@@ -48,6 +49,7 @@ repositories:
     - gitcode_id: jiang-lirui
     - gitcode_id: gaoxiang618
     - gitcode_id: wang-minbo
+    - gitcode_id: zzzzzzyf_
     - gitcode_id: xtqh
 
   - path:                               # 公共文件
@@ -71,6 +73,7 @@ repositories:
     - gitcode_id: mabing1118
     - gitcode_id: jiang-lirui
     - gitcode_id: wang-minbo
+    - gitcode_id: zzzzzzyf_
     - gitcode_id: xtqh
 
   - path:                               # 资料和example 相关
@@ -85,6 +88,7 @@ repositories:
     - gitcode_id: yu-xinjie62
     - gitcode_id: songkai111
     - gitcode_id: wang-minbo
+    - gitcode_id: zzzzzzyf_
     - gitcode_id: xtqh
 
   - path:
