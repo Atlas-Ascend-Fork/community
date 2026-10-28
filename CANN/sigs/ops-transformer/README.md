@@ -104,6 +104,7 @@
 - 李宁 [@lining_210](https://gitcode.com/lining_210), *lining210@huawei.com*
 - 黄帅 [@huangshuai59](https://gitcode.com/huangshuai59), *huangshuai59@huawei.com*
 - 薛靖晖 [@xuejinghui](https://gitcode.com/xuejinghui), *xuejinghui@huawei.com*
+- 朱铭哲 [@zhu-mingzhe71](https://gitcode.com/zhu-mingzhe71), *zhumingzhe2@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -131,6 +132,7 @@
 - 宋智琪 [@captainmiaow](https://gitcode.com/captainmiaow), *songzhiqi1@huawei.com*
 - 钟梓莘 [@zhong-zixin](https://gitcode.com/zhong-zixin), *zhongzixin@huawei.com*
 - 黄帅 [@huangshuai59](https://gitcode.com/huangshuai59), *huangshuai59@huawei.com*
+- 朱铭哲 [@zhu-mingzhe71](https://gitcode.com/zhu-mingzhe71), *zhumingzhe2@huawei.com*
 
 ## ffn committer列表：
 - 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
