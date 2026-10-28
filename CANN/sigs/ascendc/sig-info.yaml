@@ -347,3 +347,22 @@ repositories:
     committers:
     - gitcode_id: wulinyu
     - gitcode_id: wangxiaozhi
+
+- repo:
+  - cann/asc-stl
+  committers:
+  - gitcode_id: EJaven
+  - gitcode_id: m0_74872575
+  - gitcode_id: jiang_0007
+  - gitcode_id: lusonglier
+  contributors:
+  - gitcode_id: dingzhen111_
+  - gitcode_id: wwyk222
+  - gitcode_id: imstardust
+  - gitcode_id: m0_73879806
+  - gitcode_id: m0_74080324
+  - gitcode_id: liejie
+  - gitcode_id: caiyiwang
+  - gitcode_id: charon_999
+  - gitcode_id: "2302_77203983"
+  - gitcode_id: m0_73716578
