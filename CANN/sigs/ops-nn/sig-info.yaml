@@ -225,9 +225,6 @@ repositories:
     - gitcode_id: liu-wei
       name: 刘伟
       email: lovline.liuwei@huawei.com
-    - gitcode_id: FelixTang7
-      name: 唐燕峰
-      email: tangyanfeng@huawei.com
     - gitcode_id: zhajianqing123
       name: 查建青
       email: zhajianqing@huawei.com
@@ -247,9 +244,6 @@ repositories:
     - index
     - hash
     committers:
-    - gitcode_id: FelixTang7
-      name: 唐燕峰
-      email: tangyanfeng@huawei.com
     - gitcode_id: chenfeng61
       name: 陈风
       email: chenfeng61@huawei.com
@@ -343,6 +337,9 @@ repositories:
     - gitcode_id: u010470851
       name: 上官秦南
       email: shangguanqinnan@huawei.com
+    - gitcode_id: Nice_try
+      name: 张志伟
+      email: zhangzhiwei108@huawei.com
   - path:
     - matmul
     committers:
@@ -418,6 +415,9 @@ repositories:
     - gitcode_id: chenxingyu18
       name: 陈兴宇
       email: chenxingyu18@huawei.com
+    - gitcode_id: Nice_try
+      name: 张志伟
+      email: zhangzhiwei108@huawei.com
   - path:
     - experimental
     committers:
@@ -490,9 +490,6 @@ repositories:
     - gitcode_id: liu-wei
       name: 刘伟
       email: lovline.liuwei@huawei.com
-    - gitcode_id: FelixTang7
-      name: 唐燕峰
-      email: tangyanfeng@huawei.com
     - gitcode_id: yu-xinjie62
       name: 於欣洁
       email: yuxinjie1@huawei.com
