@@ -85,6 +85,7 @@
 ## CANN Insight系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261026 | DeepSeek推理性能跃迁4.5倍，ACL Graph技术解密 | sig-runtime | [链接](./slides/sig-runtime/20261026) | [链接](https://www.bilibili.com/video/BV1oUnZ67EZx) |
 | 20261010 | CANNBot-DSL：用 Agent Friendly 编程范式，生成高性能的复杂融合算子 | sig-cannbot | [链接](./slides/sig-cannbot/20261010) | [链接](https://www.bilibili.com/video/BV1irpu61EA6/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20261010 | 2.8倍性能提升！基于CANN实现Kimi K3高性能推理 | sig-recipes | [链接](./slides/sig-recipes/20261010) | [链接](https://www.bilibili.com/video/BV1dppg62Egt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260820 | AMCT-Pruning结构化剪枝技术 | sig-tools | [链接](./slides/sig-tools/20260820) | [链接](https://www.bilibili.com/video/BV1r38c6UENH/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -144,6 +145,8 @@
 ## CANN 线下meetup
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261024 | PyPTO算子编程专场 CANN开发者Meetup | - | [链接](./slides/meetup/20261024) | [链接](https://www.bilibili.com/video/BV1cRnR62EBy) |
+| 20261017 | CANN Bench Season1线下技术沙龙 | - | [链接](./slides/meetup/20261017) | [链接](https://www.bilibili.com/video/BV1Jtx56rEEu) |
 | 20260815 | CANN开源社区 线下meetup 南京站 | - | [链接](./slides/meetup/20260815) | [链接](https://www.bilibili.com/video/BV18Tbv6sEJL/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260808 | CANN开源社区 线下meetup 杭州站 | - | [链接](./slides/meetup/20260808) | [链接](https://www.bilibili.com/video/BV173ud61Eba/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260627 | CANN开源社区 线下meetup 上海站 | - | [链接](./slides/meetup/20260627) | [链接](https://www.bilibili.com/video/BV1emKQ69Esb/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -156,6 +159,7 @@
 ## CANN 竞赛活动
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261023 | CANN挑战赛 决赛赛题解析 | - | [链接](./slides/cann-learning-hub/20261023) | [链接](https://www.bilibili.com/video/BV1FSnt6KEx1) |
 | 20260915 | CANN算子天梯赛8-9月赛题解析 | - | [链接](./slides/cann-learning-hub/20260915) | [链接](https://www.bilibili.com/video/BV1ohen63EML/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260910 | CANN挑战赛赛题发布 | - | [链接](./slides/cann-learning-hub/20260910) | [链接](https://www.bilibili.com/video/BV1AuYg6XE5r/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260721 | CANN算子天梯赛6月赛题评析与7月赛题解析 | - | [链接](./slides/cann-learning-hub/20260721) | [链接](https://www.bilibili.com/video/BV1KWKh6SEfS/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
