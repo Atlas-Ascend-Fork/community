@@ -12,7 +12,6 @@ repositories:
   - gitcode_id: znmax
   - gitcode_id: hiliPP
   - gitcode_id: jason_yuan_ye
-  - gitcode_id: huang_li
   - gitcode_id: huangwei791
   - gitcode_id: huanruizhi
   - gitcode_id: qq_41667743
@@ -40,7 +39,6 @@ repositories:
   - cann/cann-recipes-spatial-intelligence
   committers:
   - gitcode_id: lushirui22
-  - gitcode_id: kevinchiu
   entry_configs: []
 
 - repo:
@@ -48,7 +46,6 @@ repositories:
   committers:
   - gitcode_id: rous_zhang
   - gitcode_id: lushirui22
-  - gitcode_id: kevinchiu
   entry_configs: []
 
 - repo:
@@ -56,4 +53,17 @@ repositories:
   committers:
   - gitcode_id: wdongming
   - gitcode_id: jxkongyue
+  entry_configs: []
+
+- repo:
+  - cann/cann-recipes-docs
+  committers:
+  - gitcode_id: tian-ccs
+  - gitcode_id: keke_x
+  - gitcode_id: rous_zhang
+  - gitcode_id: hiliPP
+  - gitcode_id: huangwei791
+  - gitcode_id: lushirui22
+  - gitcode_id: depeng1994
+  - gitcode_id: xuyujun
   entry_configs: []
