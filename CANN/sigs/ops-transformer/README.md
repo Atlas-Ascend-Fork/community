@@ -106,6 +106,7 @@
 - 黄帅 [@huangshuai59](https://gitcode.com/huangshuai59), *huangshuai59@huawei.com*
 - 薛靖晖 [@xuejinghui](https://gitcode.com/xuejinghui), *xuejinghui@huawei.com*
 - 朱铭哲 [@zhu-mingzhe71](https://gitcode.com/zhu-mingzhe71), *zhumingzhe2@huawei.com*
+- 程志炜 [@cheng_zhiwei](https://gitcode.com/cheng_zhiwei), *chengzhiwei10@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -120,6 +121,7 @@
 - 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
 - 徐诚阳 [@xuchengyang](https://gitcode.com/xuchengyang), *xuchengyang4@huawei.com*
+- 程志炜 [@cheng_zhiwei](https://gitcode.com/cheng_zhiwei), *chengzhiwei10@huawei.com*
 
 ## mc2 committer列表：
 - 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
@@ -153,6 +155,7 @@
 - 石睿 [@shi-rui](https://gitcode.com/shi-rui), *shirui17@huawei.com*
 - 孔德元 [@kdy18482276080](https://gitcode.com/kdy18482276080), *kongdeyuan3@huawei.com*
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
+- 程志炜 [@cheng_zhiwei](https://gitcode.com/cheng_zhiwei), *chengzhiwei10@huawei.com*
 
 ## posembedding committer列表：
 - 宋凯 [@songkai111](https://gitcode.com/songkai111), *songkai16@huawei.com*
@@ -170,6 +173,7 @@
 - 朱逸君 [@Julius47](https://gitcode.com/Julius47), *zhuyijun8@hisilicon.com*
 - 徐诚阳 [@xuchengyang](https://gitcode.com/xuchengyang), *xuchengyang4@huawei.com*
 - 蒋家炜 [@jiangjiawei](https://gitcode.com/jiangjiawei), *jiangjiawei10@huawei.com*
+- 程志炜 [@cheng_zhiwei](https://gitcode.com/cheng_zhiwei), *chengzhiwei10@huawei.com*
 
 ## attention committer列表：
 - 杨彬榕 [@yang-binrong](https://gitcode.com/yang-binrong), *yangbinrong@huawei.com*
@@ -204,6 +208,7 @@
 - 徐诚阳 [@xuchengyang](https://gitcode.com/xuchengyang), *xuchengyang4@huawei.com*
 - 陈黄威 [@huang-wei-chen](https://gitcode.com/huang-wei-chen), *chenhuangwei1@huawei.com*
 - 李宁 [@lining_210](https://gitcode.com/lining_210), *lining210@huawei.com*
+- 程志炜 [@cheng_zhiwei](https://gitcode.com/cheng_zhiwei), *chengzhiwei10@huawei.com*
 
 ## mhc committer列表:
 - 陆威 [@luwei_1104](https://gitcode.com/luwei_1104), *luwei44@huawei.com*
