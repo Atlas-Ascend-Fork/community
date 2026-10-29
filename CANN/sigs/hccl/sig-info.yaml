@@ -293,6 +293,7 @@ repositories:
       - externel_depends
       - src/legacy/ascend950/framework/env_config
       - src/legacy/ascend910/framework/common/src/config
+      - src/base_comm/inc
       committers:
       - gitcode_id: yanzhenghang
         name: 严正行
