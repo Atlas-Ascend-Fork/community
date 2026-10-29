@@ -43,6 +43,37 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 贺迪 [@hedi0515](https://gitcode.com/hedi0515), *hedi7@huawei.com*
 - 曹峻铭 [@junming222](https://gitcode.com/junming222), *caojunming4@huawei.com*
 - 吴佳萍 [@w00934874](https://gitcode.com/w00934874), *wujiaping@huawei.com*
+- 金瑛棋 [@jinyingqi](https://gitcode.com/jinyingqi), *jinyingqi@huawei.com*
+- 王钰晴 [@cann_wangyq](https://gitcode.com/cann_wangyq), *wangyuqing33@huawei.com*
+- 常翔宇 [@xchang1121](https://gitcode.com/xchang1121), *cxian008@ucr.edu*
+- 张杰 [@newstarzj](https://gitcode.com/newstarzj), *zhangjie230@huawei.com*
+- 龙吉晖 [@longjihui](https://gitcode.com/longjihui), *longjihui@huawei.com*
+- 戴慧娜 [@DaiHuina1](https://gitcode.com/DaiHuina1), *daihuina1@huawei.com*
+- Cheng Yu [@ddddwe](https://gitcode.com/ddddwe), *cheng.yu1@huawei.com*
+
+**cann/cannbot**
+- 宋恺 [@songkai111](https://gitcode.com/songkai111)
+- 陈敦阳 [@qq_37913898](https://gitcode.com/qq_37913898), *chendunyang1@huawei.com*
+- 闫勇良 [@benwallace52](https://gitcode.com/benwallace52), *yanyongliang@huawei.com*
+- 韩睿 [@hanrui22](https://gitcode.com/hanrui22), *hanrui2@huawei.com*
+- 邓国杰 [@dengguojie](https://gitcode.com/dengguojie), *dengguojie@huawei.com*
+- 冯彤 [@rxtfeng](https://gitcode.com/rxtfeng), *fengtong5@huawei.com*
+- 王政 [@wangzheng97](https://gitcode.com/wangzheng97), *wangzheng97@hisilicon.com*
+- 汤平川 [@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
+- 徐天泽 [@xutianze](https://gitcode.com/xutianze), *xutianze2@huawei.com*
+- 王子恒 [@zihengwang2](https://gitcode.com/zihengwang2), *wangziheng8@huawei.com*
+- 贺迪 [@hedi0515](https://gitcode.com/hedi0515), *hedi7@huawei.com*
+- 吴佳萍 [@w00934874](https://gitcode.com/w00934874), *wujiaping@huawei.com*
+- 曹峻铭 [@junming222](https://gitcode.com/junming222), *caojunming4@huawei.com*
+- 周奇龙 [@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
+- 张子杰 [@zhangzijie](https://gitcode.com/zhangzijie), *zhangzijie11@hisilicon.com*
+- 陈冬杰 [@midwinter1993](https://gitcode.com/midwinter1993), *djwithx1@gmail.com*
+- 陈兴宇 [@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
+- 王钰晴 [@cann_wangyq](https://gitcode.com/cann_wangyq), *wangyuqing33@huawei.com*
+- 张杰 [@newstarzj](https://gitcode.com/newstarzj), *zhangjie230@huawei.com*
+- 龙吉晖 [@longjihui](https://gitcode.com/longjihui), *longjihui@huawei.com*
+- 戴慧娜 [@DaiHuina1](https://gitcode.com/DaiHuina1), *daihuina1@huawei.com*
+- Cheng Yu [@ddddwe](https://gitcode.com/ddddwe), *cheng.yu1@huawei.com*
 
 **cann/cann-bench**
 - 苏跃明 [@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
@@ -56,12 +87,15 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 杨继伟 [@yang-jiwei](https://gitcode.com/yang-jiwei), *yangjiwei4@huawei.com*
 - 陈振宇 [@gcw_9tG1ncgm](https://gitcode.com/gcw_9tG1ncgm), *zychen@nju.edu.cn*
 - 刘佳玮 [@keloJW](https://gitcode.com/keloJW), *eudemoniajw@gmail.com*
+- 熊志强 [@ZacharyX](https://gitcode.com/ZacharyX), *xiongzhiqiang3@hisilicon.com*
+- 初启航 [@chuqihang](https://gitcode.com/chuqihang), *chuqihang@huawei.com*
 
 **cann/cannbot-sentry**
 - 周奇龙 [@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
 - 任桥伟 [@qwren](https://gitcode.com/qwren), *renqiaowei@huawei.com*
 - 管兴华 [@guanxinghua](https://gitcode.com/guanxinghua), *guanxinghua@huawei.com*
 - 杜航 [@hangdu](https://gitcode.com/hangdu), *duhang8@huawei.com*
+- 段炳哲 [@duanbingzhe](https://gitcode.com/duanbingzhe), *duanbingzhe@huawei.com*
 
 **cann/cannbot-knowledge**
 - 韩树发 [@fafahan](https://gitcode.com/fafahan), *hanshufa1@hisilicon.com*
@@ -70,6 +104,7 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 王少钧 [@wangsj0012](https://gitcode.com/wangsj0012), *wangshaojun11@huawei.com*
 - 沈铮 [@zhengshencn_hwca](https://gitcode.com/zhengshencn_hwca), *zheng.shen@huawei.com*
 - 王祥丰 [@xfwang_ecnu](https://gitcode.com/xfwang_ecnu), *xfwang@cs.ecnu.edu.cn*
+- 郑灵超 [@lczheng](https://gitcode.com/lczheng), *zhenglingchao@huawei.com*
 
 # SIG订阅
 
@@ -79,6 +114,7 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 
 代码仓库地址：
 - https://gitcode.com/cann/cannbot-skills
+- https://gitcode.com/cann/cannbot
 - https://gitcode.com/cann/cann-bench
 - https://gitcode.com/cann/cannbot-dsl
 - https://gitcode.com/cann/cannbot-sentry
