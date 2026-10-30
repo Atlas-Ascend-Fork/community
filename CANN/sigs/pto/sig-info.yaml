@@ -313,6 +313,7 @@ repositories:
         - gitcode_id: shengxinchen
         - gitcode_id: echo_stone
         - gitcode_id: kerwinair
+        - gitcode_id: wuying123wy
 
 - repo:
     - cann/pypto-vscode
