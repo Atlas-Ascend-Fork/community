@@ -42,6 +42,7 @@ CATLASS API 架构图：
 - 高道兴[@weixin_63557130](https://gitcode.com/weixin_63557130), *<2829025546@qq.com>*
 - 张浩波[@init__zhb__](https://gitcode.com/init__zhb__), *<zhanghaobo6@huawei.com>*
 - 倪宇昊[@CheaterAbec](https://gitcode.com/CheaterAbec), *<niyuhao2@huawei.com>*
+- 陈昊文[@Chen_HaoWen](https://gitcode.com/Chen_HaoWen), *<chenhaowen12@huawei.com>*
 
 ### CATCCOS: [https://gitcode.com/cann/catccos](https://gitcode.com/cann/catccos)
 

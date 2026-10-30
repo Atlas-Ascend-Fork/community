@@ -23,6 +23,7 @@ repositories:
   - gitcode_id: weixin_63557130
   - gitcode_id: init__zhb__
   - gitcode_id: CheaterAbec
+  - gitcode_id: Chen_HaoWen
   entry_configs: 
   - path: 
     - tools
