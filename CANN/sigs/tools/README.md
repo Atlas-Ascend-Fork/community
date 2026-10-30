@@ -28,7 +28,7 @@
 ### SIG成员
 
 #### Maintainer列表
-- 金瑛琪 [[@jinyingqi]](https://gitcode.com/jinyingqi), *jinyingqi@huawei.com*
+- 金瑛棋 [[@jinyingqi]](https://gitcode.com/jinyingqi), *jinyingqi@huawei.com*
 - 姚广修 [[@yaoguangxiu]](https://gitcode.com/yaoguangxiu), *yaoguangxiu@huawei.com*
 - 袁江 [[@yuanjiang_]](https://gitcode.com/yuanjiang_), *yuanjiang@huawei.com*
 

@@ -186,7 +186,7 @@ sigs:
   - sig_name: tools
     maintainers:
       - gitcode_id: jinyingqi
-        name: 金瑛琪
+        name: 金瑛棋
         email: jinyingqi@huawei.com
       - gitcode_id: yaoguangxiu
         name: 姚广修
