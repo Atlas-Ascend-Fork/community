@@ -19,7 +19,7 @@ CANN 社区不同的项目可能使用不同的编程语言、开发框架和编
 | 编码 | [C++编程规范](coding-standards/C++%20Coding%20standards.md) |
 | 编码 | [安全编码规范](coding-standards/SecureCoding.md)  |
 | 编码 | [片段引用指导](third_party/snippet-reference-guideline.md) |
-| 编译 | [安全编译选项](coding-standards/SecureCompile(C%26C%2B%2B).md) |
+| 编译 | [安全编译选项](coding-standards/SecureCompile%28C%26C%2B%2B%29.md) |
 | 文档 | [文档写作规范](docs/document_writing_specs.md) |
 
 ### 2.2 版权声明
