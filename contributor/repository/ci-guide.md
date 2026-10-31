@@ -69,21 +69,33 @@ CANN社区通过持续集成（CI，Continuous Integration）及时发现代码�
 
 ---
 
-## 四、每日版本产物下载
+## 四、构建产物下载
 
-代码仓每日构建产物将在mirror仓中单独创建目录存放，支持开发者下载使用。
+CANN 社区构建产物存放于社区制品库（ascend.devcloud.huaweicloud.com），分为正式发布包与 weekly 包两类。
 
-访问地址：`https://mirror.huawei.com/cann/${repo_name}/${branch}/daily/${yyyymm}/${dd}/`
+### 社区发布包（版本包）
+
+按版本号与架构组织，覆盖各 SOC 型号（910b/950/A3 等）：
+
+访问地址：`https://ascend.devcloud.huaweicloud.com/cann/run/software/${version}/${arch}/`
 
 参数说明：
-- `${repo_name}`：代码仓名称
-- `${branch}`：构建分支
-- `${yyyymm}`：构建年月（如202501表示2025年1月）
-- `${dd}`：构建日期（如05表示当月5日）
+- `${version}`：CANN 版本号（如 `9.0.0`，预发布版本位于 `-beta.N` 目录）
+- `${arch}`：架构（`x86_64` / `aarch64`）
 
-示例：`https://mirror.huawei.com/cann/project_demo/master/daily/202510/20/` 表示project_demo仓master分支在2025年10月20日的构建产物。
+示例：`https://ascend.devcloud.huaweicloud.com/cann/run/software/9.0.0/x86_64/` 目录下包含 `Ascend-cann-910b-ops_9.0.0_linux-x86_64.run` 等安装包。
 
-[点击访问下载链接](https://mirrors.huaweicloud.com/artifactory/cann-run/)
+[点击访问社区发布包](https://ascend.devcloud.huaweicloud.com/cann/run/)
+
+### weekly 包
+
+master 分支周期构建产物，按构建时间戳目录存放；文件名包含 SOC 型号、版本（`~weekly.构建日期.序号`）与架构：
+
+访问地址：`https://ascend.devcloud.huaweicloud.com/artifactory/cann-run-mirror/software/master/${timestamp}/`
+
+示例：`.../master/20261021000325976/Ascend-cann-910b-ops_9.3.0~weekly.20261021.01_linux-x86_64.run` 表示 9.3.0 版本 2026-10-21 第 01 次构建的 910b ops 包（x86_64 架构）。
+
+[点击访问 weekly 包](https://ascend.devcloud.huaweicloud.com/artifactory/cann-run-mirror/software/master/)
 
 ---
 
