@@ -35,6 +35,7 @@ repositories:
   - gitcode_id: louyuxuan
   - gitcode_id: YANXI_ZHAO
   - gitcode_id: ascendhjh
+  - gitcode_id: chenma
   entry_configs:
   - path:
     - cmake
