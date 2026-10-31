@@ -45,7 +45,7 @@ Python 版本：Python 3.11.15
 
 PyTorch 版本：2.6.0+cpu（配套 torch_npu 2.6.0，PyTorch 用例验证组合）
 
-测试源码仓：https://gitcode.com/gcw_8EkgHHri/bio-ops-molecule.git（`50a88d1`，基于 `f0cdca8 切换 CANN 版本至 9.0.0`）
+测试源码仓：https://gitcode.com/cann/bio-ops-molecule.git（`50a88d1`，基于 `f0cdca8 切换 CANN 版本至 9.0.0`；原测试用个人 fork 仓已删除，上述 commit 均已合入官方仓，溯源以官方仓为准）
 
 测试用例仓：https://gitcode.com/Ascend-SACT/FAG-dpse-ops-test.git（dPse 专项反向用例）
 
