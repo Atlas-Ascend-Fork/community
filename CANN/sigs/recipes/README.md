@@ -48,6 +48,10 @@
 
 *   **[邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/recipes.cann.osinfra.cn/)**
 *   **[在线会议](https://etherpad-cann.meeting.osinfra.cn/p/sig-recipes)**：每两周一次，周二上午10:30 - 12:00（UTC+8）
+*   **微信交流群**（扫码入群，若二维码失效请联系 Maintainer）
+
+<img src="../../../figures/sig/recipes_wechat_qrcode.png" alt="recipes SIG 微信交流群" width="180" />
+
 *   **飞书交流群**（扫码入群，若二维码失效请联系 Maintainer）
 
 <img src="../../../figures/sig/recipes_feishu_qrcode.jpg" alt="recipes SIG 飞书交流群" width="180" />
