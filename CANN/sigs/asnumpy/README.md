@@ -14,18 +14,13 @@ AsNumpy是一款 深度支持昇腾NPU并高度兼容numpy接口的轻量级Pyth
 ### Maintainer列表
 - 武震卿[@wuzhenqing](https://gitcode.com/wuzhenqing), *wuzhenqing@stu.hit.edu.cn*
 - 赵宇彤[@hyyisasleep](https://gitcode.com/hyyisasleep), *2106975800@qq.com*
-<!-- - 李行[@li-xingHIT](https://gitcode.com/li-xingHIT), *1780785127@qq.com* -->
 - 苏统华[@sutonghua](https://gitcode.com/sutonghua), *tonghuasu@gmail.com*
 - 王甜甜[@TiantianWang_Hit](https://gitcode.com/TiantianWang_Hit), *sweetwtt@126.com*
 
 ### Committer列表
 - 戈昊轩[@gehaoxuan](https://gitcode.com/gehaoxuan), *2310314646@qq.com*
-<!-- - 支怡超[@zhi_yichao](https://gitcode.com/zhi_yichao), *yichao_zhi@qq.com* -->
-<!-- - 周航[@Sea--1024](https://gitcode.com/Sea--1024), *18229820470@139.com* -->
-<!-- - 杨季翰[@yang-jihan](https://gitcode.com/yang-jihan), *1553170804@qq.com* -->
-<!-- - 贾媛媛[@yuanyuan14](https://gitcode.com/yuanyuan14), *3263715730@qq.com* -->
-<!-- - 温咏澎[@meph7sto](https://gitcode.com/meph7sto), *3383540370@qq.com* -->
 - 肖雯祺[@JWJWJWJWW](https://gitcode.com/JWJWJWJWW), *1357697985@qq.com*
+- 王博涵[@m0_69135863](https://gitcode.com/m0_69135863), *wbh1229666@gmail.com*
 - 梁钊[@xingfenzhazha](https://gitcode.com/xingfenzhazha), *26S103493@stu.hit.edu.cn*
 
 # 社区运作
