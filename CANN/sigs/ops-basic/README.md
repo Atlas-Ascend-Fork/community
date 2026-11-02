@@ -75,6 +75,7 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 - 柳宗谷[@LiuZonggu](https://gitcode.com/LiuZonggu), *liuzonggu1@huawei.com*
 - 赖长铃[@clinglai0517](https://gitcode.com/clinglai0517), *laichangling@huawei.com*
 - 田上[@onanfield](https://gitcode.com/onanfield), *tianshang@huawei.com*
+- 蒋家炜[@yourealize](https://gitcode.com/jiangjiawei), *jiangjiawei10@huawei.com*
 
 # 活跃贡献者
 截止2025/12/18日活跃贡献者名单
