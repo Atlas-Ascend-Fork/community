@@ -22,10 +22,12 @@ repositories:
     - plugins-community/ascendc-port-orchestrator
     committers:
     - gitcode_id: junming222
+    - gitcode_id: jon_jin
   - path:
     - ops/ascendc-cross-gen-port-light
     committers:
     - gitcode_id: junming222
+    - gitcode_id: jon_jin
   - path:
     - tools
     committers:
@@ -39,25 +41,33 @@ repositories:
     - plugins-community/autoresearch
     committers:
     - gitcode_id: xchang1121
+    - gitcode_id: jon_jin
   - path:
     - plugins-community/catlass-dsl-generator
     - "ops/catlass-*"
     committers:
     - gitcode_id: longjihui
+    - gitcode_id: DaiHuina1
+    - gitcode_id: rxtfeng
   - path:
     - ops/cann-error-code-standard
     - ops/ops-error-code-remediation
+    committers:
+    - gitcode_id: DaiHuina1
+    - gitcode_id: jon_jin
+  - path:
     - ops/ascendc-code-review
     - ops/ops-mssanitizer
     - ops/ascendc-docs-gen
-    - "ops/catlass-*"
-    - plugins-community/catlass-dsl-generator
     committers:
     - gitcode_id: DaiHuina1
+    - gitcode_id: jon_jin
+    - gitcode_id: dengguojie
   - path:
     - community/ops/pypto-pro-kernel
     committers:
     - gitcode_id: ddddwe
+    - gitcode_id: wangzheng97
 - repo:
   - cann/cann-bench
   committers:
@@ -103,44 +113,45 @@ repositories:
     - plugins-community/ascendc-port-orchestrator
     committers:
     - gitcode_id: junming222
+    - gitcode_id: jon_jin
   - path:
     - harness
     committers:
     - gitcode_id: zhou-qilong
+    - gitcode_id: songkai111
   - path:
     - plugins-official/ops-registry-invoke
     - plugins-official/ops-direct-invoke-flash
     committers:
     - gitcode_id: zhangzijie
+    - gitcode_id: pingchuantang
   - path:
     - plugins-community/triton-optimizer
     committers:
     - gitcode_id: midwinter1993
+    - gitcode_id: w00934874
   - path:
     - plugins-official/catlass-op-generator
     - plugins-community/catlass-dsl-generator
+    committers:
+    - gitcode_id: chenxingyu18
+    - gitcode_id: longjihui
+    - gitcode_id: DaiHuina1
+  - path:
     - plugins-official/triton-op-generator
     committers:
     - gitcode_id: chenxingyu18
+    - gitcode_id: DaiHuina1
+    - gitcode_id: w00934874
   - path:
     - plugins-official/hccl-op-generator
     committers:
     - gitcode_id: cann_wangyq
   - path:
-    - plugins-official/catlass-op-generator
-    - plugins-community/catlass-dsl-generator
-    committers:
-    - gitcode_id: longjihui
-  - path:
-    - plugins-official/catlass-op-generator
-    - plugins-community/catlass-dsl-generator
-    - plugins-official/triton-op-generator
-    committers:
-    - gitcode_id: DaiHuina1
-  - path:
     - plugins-community/pypto-pro-op-orchestrator
     committers:
     - gitcode_id: ddddwe
+    - gitcode_id: wangzheng97
 - repo:
   - cann/cannbot-knowledge
   committers:
