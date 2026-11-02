@@ -67,7 +67,6 @@
 - 沈维铃 [@shen_weiling](https://gitcode.com/shen_weiling), *shenweiling@huawei.com*
 - 唐浩 [@tang-hao-hw-gitcode](https://gitcode.com/tang-hao-hw-gitcode), *tanghao71@hisilicon.com*
 - 鞠阳 [@juyangokok](https://gitcode.com/juyangokok), *juyang@huawei.com*
-- 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
 - 杨泽恒 [@yangzeheng](https://gitcode.com/yangzeheng), *yangzeheng@huawei.com*
 - 罗柏清 [@luobaiqing](https://gitcode.com/luobaiqing), *luobaiqing1@huawei.com*
@@ -89,7 +88,6 @@
 - 陈鹏屹 [@cpy_123456](https://gitcode.com/cpy_123456), *chenpengyi@huawei.com*
 - 郭秋毫 [@guoqiuhao](https://gitcode.com/guoqiuhao), *guoqiuhao1@huawei.com*
 - 吴奕 [@wuyi_huawei](https://gitcode.com/wuyi_huawei), *wuyi36@hisilicon.com*
-- 宋智琪 [@captainmiaow](https://gitcode.com/captainmiaow), *songzhiqi1@huawei.com*
 - 丁勇 [@xuanyuandy](https://gitcode.com/xuanyuandy), *dingyong19@huawei.com*
 - 韩孝斌 [@L_Euler](https://gitcode.com/L_Euler), *hanxiaobin3@huawei.com*
 - 周扬帆 [@hz36amy_00](https://gitcode.com/hz36amy_00), *zhouyangfan8@huawei.com*
@@ -107,6 +105,11 @@
 - 薛靖晖 [@xuejinghui](https://gitcode.com/xuejinghui), *xuejinghui@huawei.com*
 - 朱铭哲 [@zhu-mingzhe71](https://gitcode.com/zhu-mingzhe71), *zhumingzhe2@huawei.com*
 - 程志炜 [@cheng_zhiwei](https://gitcode.com/cheng_zhiwei), *chengzhiwei10@huawei.com*
+- 赵鹏磊 [@yayahello](https://gitcode.com/yayahello), *zhaopenglei@hisilicon.com*
+- 储国威 [@chuguowei](https://gitcode.com/chuguowei), *chuguowei@huawei.com*
+- 曾治国 [@zzg_code](https://gitcode.com/zzg_code), *zengzhiguo1@huawei.com*
+- 王靖权 [@adamlwang](https://gitcode.com/adamlwang), *wangjingquan2@huawei.com*
+- 丁伟 [@dingwei002](https://gitcode.com/dingwei002), *dingwei2@huawei.com*
 
 ## 细分领域：
 ## moe committer列表：
@@ -127,15 +130,18 @@
 - 陈建军 [@chenjianjun11](https://gitcode.com/chenjunjian11), *chenjianjun11@huawei.com*
 - 王民波 [@wang-minbo](https://gitcode.com/wang-minbo), *wangminbo1@hisilicon.com*
 - 刘博熙 [@liuboxi](https://gitcode.com/liuboxi), *liuboxi1@huawei.com*
-- 李博浩 [@libohao6](https://gitcode.com/libohao6), *libohao3@huawei.com*
 - 陈陆淳 [@macech](https://gitcode.com/macech), *chenluchun1@huawei.com*
 - 杨泽恒 [@yangzeheng](https://gitcode.com/yangzeheng), *yangzeheng@huawei.com*
 - 罗柏清 [@luobaiqing](https://gitcode.com/luobaiqing), *luobaiqing1@huawei.com*
 - 林玮 [@tgwsakiko_](https://gitcode.com/tgwsakiko_), *linwei69@huawei.com*
-- 宋智琪 [@captainmiaow](https://gitcode.com/captainmiaow), *songzhiqi1@huawei.com*
 - 钟梓莘 [@zhong-zixin](https://gitcode.com/zhong-zixin), *zhongzixin@huawei.com*
 - 黄帅 [@huangshuai59](https://gitcode.com/huangshuai59), *huangshuai59@huawei.com*
 - 朱铭哲 [@zhu-mingzhe71](https://gitcode.com/zhu-mingzhe71), *zhumingzhe2@huawei.com*
+- 赵鹏磊 [@yayahello](https://gitcode.com/yayahello), *zhaopenglei@hisilicon.com*
+- 储国威 [@chuguowei](https://gitcode.com/chuguowei), *chuguowei@huawei.com*
+- 曾治国 [@zzg_code](https://gitcode.com/zzg_code), *zengzhiguo1@huawei.com*
+- 王靖权 [@adamlwang](https://gitcode.com/adamlwang), *wangjingquan2@huawei.com*
+- 丁伟 [@dingwei002](https://gitcode.com/dingwei002), *dingwei2@huawei.com*
 
 ## ffn committer列表：
 - 唐超 [@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
