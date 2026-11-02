@@ -24,7 +24,7 @@ repositories:
     - gitcode_id: junming222
     - gitcode_id: jon_jin
   - path:
-    - ops/ascendc-cross-gen-port-light
+    - ops/ascendc-cross-gen-migration
     committers:
     - gitcode_id: junming222
     - gitcode_id: jon_jin
