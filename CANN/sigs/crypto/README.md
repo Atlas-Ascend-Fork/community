@@ -41,6 +41,12 @@ crypto SIG 是密码学兴趣小组，围绕昇腾 NPU 打造高性能密码软�
 
 - [邮件列表](https://mailweb.cann.osinfra.cn/mailman3/lists/crypto.cann.osinfra.cn/)
 
+# 联系方式
+
+扫码添加群管理员，申请加入 Crypto SIG 交流群，参与技术交流与社区共建。如有开源贡献、代码评审或 PR 合入方面的问题，也欢迎联系管理员沟通。
+
+<img src="./wechat_qrcode.png" alt="Crypto SIG 微信群管理员二维码" width="300" />
+
 # 仓库清单
 
 仓库地址：
