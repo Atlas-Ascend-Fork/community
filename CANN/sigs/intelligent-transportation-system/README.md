@@ -138,6 +138,7 @@ Pull Request 通常按以下流程处理：
 - 顾子渊 [@ZG_SEU](https://gitcode.com/ZG_SEU), *gzysqy@163.com*
 - 张宏刚 [@Zhang_Honggang](https://gitcode.com/Zhang_Honggang), *zhgang1994@163.com*
 - 辛云鹏 [@yx_xlqy](https://gitcode.com/yx_xlqy), *yunpengxin@seu.edu.cn*
+- 许心宇 [@XinyuXu](https://gitcode.com/XinyuXu), *xwilliam.xu@foxmail.com*
 
 #### its-stable-llm
 
@@ -153,6 +154,13 @@ Pull Request 通常按以下流程处理：
 - 黄凯 [@huangkai0410](https://gitcode.com/huangkai0410), *kaihuang@seu.edu.cn*
 - 徐占东 [@ZhandongXu](https://gitcode.com/ZhandongXu), *zhandong.xu@swjtu.edu.cn*
 - 周臻 [@zhenz2020](https://gitcode.com/zhenz2020), *zzhou602@seu.edu.cn*
+- 刘超凡 [@shlcf](https://gitcode.com/shlcf), *chaofanliu928@gmail.com*
+- 黄爽 [@HisonHuang](https://gitcode.com/HisonHuang), *hs.huang@huawei.com*
+- 黄开彬 [@keecin](https://gitcode.com/keecin), *huangkaibin@huawei.com*
+- 姚建 [@fanby02](https://gitcode.com/fanby02), *yaojian7@huawei.com*
+- 常小青 [@changxiaoqing](https://gitcode.com/changxiaoqing), *changxiaoqing1@huawei.com*
+- 王高伟 [@garysh](https://gitcode.com/garysh), *wanggaowei@huawei.com*
+
 
 #### its-trip-samples
 
@@ -160,6 +168,13 @@ Pull Request 通常按以下流程处理：
 - 周臻 [@zhenz2020](https://gitcode.com/zhenz2020), *zzhou602@seu.edu.cn*
 - 张晨洋 [@sunnyzcyyy](https://gitcode.com/sunnyzcyyy), *Sunny_zhang@seu.edu.cn*
 - 李沐泽 [@Luz7818](https://gitcode.com/Luz7818), *213230392@seu.seu.cn*
+- 刘超凡 [@shlcf](https://gitcode.com/shlcf), *chaofanliu928@gmail.com*
+- 黄爽 [@HisonHuang](https://gitcode.com/HisonHuang), *hs.huang@huawei.com*
+- 黄开彬 [@keecin](https://gitcode.com/keecin), *huangkaibin@huawei.com*
+- 姚建 [@fanby02](https://gitcode.com/fanby02), *yaojian7@huawei.com*
+- 常小青 [@changxiaoqing](https://gitcode.com/changxiaoqing), *changxiaoqing1@huawei.com*
+- 王高伟 [@garysh](https://gitcode.com/garysh), *wanggaowei@huawei.com*
+
 
 
 

@@ -46,6 +46,27 @@ committers:
 - gitcode_id: HongriJiujiu
   name: 李宏
   email: 213222359@seu.edu.cn
+- gitcode_id: XinyuXu
+  name: 许心宇
+  email: xwilliam.xu@foxmail.com
+- gitcode_id: shlcf
+  name: 刘超凡
+  email: chaofanliu928@gmail.com
+- gitcode_id: HisonHuang
+  name: 黄爽
+  email: hs.huang@huawei.com
+- gitcode_id: keecin
+  name: 黄开彬
+  email: huangkaibin@huawei.com
+- gitcode_id: fanby02
+  name: 姚建
+  email: yaojian7@huawei.com
+- gitcode_id: changxiaoqing
+  name: 常小青
+  email: changxiaoqing1@huawei.com
+- gitcode_id: garysh
+  name: 王高伟
+  email: wanggaowei@huawei.com
 
 repositories:
 - repo:
@@ -103,6 +124,24 @@ repositories:
   - gitcode_id: zhenz2020
     name: 周臻
     email: zzhou602@seu.edu.cn
+  - gitcode_id: shlcf
+    name: 刘超凡
+    email: chaofanliu928@gmail.com
+  - gitcode_id: HisonHuang
+    name: 黄爽
+    email: hs.huang@huawei.com
+  - gitcode_id: keecin
+    name: 黄开彬
+    email: huangkaibin@huawei.com
+  - gitcode_id: fanby02
+    name: 姚建
+    email: yaojian7@huawei.com
+  - gitcode_id: changxiaoqing
+    name: 常小青
+    email: changxiaoqing1@huawei.com
+  - gitcode_id: garysh
+    name: 王高伟
+    email: wanggaowei@huawei.com
   entry_configs: []
 
 - repo:
@@ -120,3 +159,21 @@ repositories:
   - gitcode_id: Luz7818
     name: 李沐泽
     email: 213230392@seu.seu.cn
+  - gitcode_id: shlcf
+    name: 刘超凡
+    email: chaofanliu928@gmail.com
+  - gitcode_id: HisonHuang
+    name: 黄爽
+    email: hs.huang@huawei.com
+  - gitcode_id: keecin
+    name: 黄开彬
+    email: huangkaibin@huawei.com
+  - gitcode_id: fanby02
+    name: 姚建
+    email: yaojian7@huawei.com
+  - gitcode_id: changxiaoqing
+    name: 常小青
+    email: changxiaoqing1@huawei.com
+  - gitcode_id: garysh
+    name: 王高伟
+    email: wanggaowei@huawei.com
