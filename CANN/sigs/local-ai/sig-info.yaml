@@ -1,11 +1,11 @@
-name: device-ai
+name: local-ai
 description: 基于CANN在Kirin、昇腾等端、边芯片上，提供轻量、低延迟、低内存占用的LLM、VLM等大模型推理能力，含大模型转换工具与端到端推理引擎。
-mailing_list: device-ai@cann.osinfra.cn
-meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-device-ai
+mailing_list: local-ai@cann.osinfra.cn
+meeting_whiteboard_url: https://etherpad-cann.meeting.osinfra.cn/p/sig-local-ai
 committers: []
 repositories:
 - repo:
-  - cann/cann-device-lm
+  - cann/cann-local-lm
   committers:
   - gitcode_id: jxkongyue
   - gitcode_id: LiuXinxin23

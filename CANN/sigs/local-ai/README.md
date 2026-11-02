@@ -1,14 +1,14 @@
-# device-ai SIG
+# local-ai SIG
 
 ### 🌟 简介 (Introduction)
 
-欢迎来到**device-ai SIG**！我们致力于基于CANN在Kirin、昇腾等端、边芯片上，提供轻量、低延迟、低内存占用的LLM、VLM等大模型推理能力，让大模型真正在端侧与边侧设备上跑起来、跑得快、跑得省。
+欢迎来到**local-ai SIG**！我们致力于基于CANN在Kirin、昇腾等端、边芯片上，提供轻量、低延迟、低内存占用的LLM、VLM等大模型推理能力，让大模型真正在端侧与边侧设备上跑起来、跑得快、跑得省。
 
 **已开源仓的列表：**
 
 | 项目名称 | 功能领域 |
 |----------|----------|
-| [cann-device-lm](https://gitcode.com/cann/cann-device-lm) | 端侧/边侧大模型转换工具与端到端推理引擎 |
+| [cann-local-lm](https://gitcode.com/cann/cann-local-lm) | 端侧/边侧大模型转换工具与端到端推理引擎 |
 
 ### 🎯 愿景与使命 (Vision & Mission)
 
@@ -42,8 +42,8 @@
 
 我们欢迎您参与我们的SIG会议，在线交流，一起探讨
 
-*   **[邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/device-ai.cann.osinfra.cn/)**
-*   **[在线会议议题看板](https://etherpad-cann.meeting.osinfra.cn/p/sig-device-ai)**：例会时间与议题以看板公示为准
+*   **[邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/local-ai.cann.osinfra.cn/)**
+*   **[在线会议议题看板](https://etherpad-cann.meeting.osinfra.cn/p/sig-local-ai)**：例会时间与议题以看板公示为准
 
 ### 📝 SIG成员（Members）
 

@@ -477,7 +477,7 @@ sigs:
         name: 程黎明
         email: chengliming@huawei.com
   
-  - sig_name: device-ai
+  - sig_name: local-ai
     maintainers:
       - gitcode_id: jxkongyue
         name: 江潇
