@@ -46,6 +46,8 @@
 - 兰泽泽[@Flashfuture](https://gitcode.com/Flashfuture), *lanzeze@huawei.com*
 - 蔡鑫[@silencesirius](https://gitcode.com/silencesirius), *caixin21@huawei.com*
 - 欧阳志康[@LQ_OY](https://gitcode.com/LQ_OY), *ouyangzhikang@huawei.com*
+- 赵佳钰[@yjzz1007](https://gitcode.com/yjzz1007), *zhaojiayu7@huawei.com*
+- 刘万科[@liuwanke152](https://gitcode.com/liuwanke152), *liuwanke1@hisilicon.com*
 
 # 社区运作
 

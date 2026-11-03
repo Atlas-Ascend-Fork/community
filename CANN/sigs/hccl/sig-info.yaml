@@ -72,6 +72,12 @@ repositories:
   - gitcode_id: silencesirius
     name: 蔡鑫
     email: caixin21@huawei.com
+  - gitcode_id: yjzz1007
+    name: 赵佳钰
+    email: zhaojiayu7@huawei.com
+  - gitcode_id: liuwanke152
+    name: 刘万科
+    email: liuwanke1@hisilicon.com
 
   entry_configs:
     - path:
@@ -276,6 +282,12 @@ repositories:
   - gitcode_id: LQ_OY
     name: 欧阳志康
     email: ouyangzhikang@huawei.com
+  - gitcode_id: yjzz1007
+    name: 赵佳钰
+    email: zhaojiayu7@huawei.com
+  - gitcode_id: liuwanke152
+    name: 刘万科
+    email: liuwanke1@hisilicon.com
 
   entry_configs:
     - path:
