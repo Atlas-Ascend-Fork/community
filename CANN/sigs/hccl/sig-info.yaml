@@ -108,6 +108,18 @@ repositories:
         email: yanzhenghang@huawei.com
 
     - path:
+      - .clang-tidy
+      - build.sh
+      - scripts/clang-tidy
+      committers:
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
+      - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
+
+    - path:
       - classify_rule.yaml
       - blacklist.txt
       committers:
@@ -294,7 +306,6 @@ repositories:
       - include
       - pkg_inc
       - cmake
-      - scripts
       - CMakeLists.txt
       - src/CMakeLists.txt
       - src/legacy/ascend910/pub_inc
@@ -306,6 +317,26 @@ repositories:
       - src/legacy/ascend950/framework/env_config
       - src/legacy/ascend910/framework/common/src/config
       - src/base_comm/inc
+      committers:
+      - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
+
+    - path:
+      - .clang-tidy
+      - build.sh
+      - scripts
+      committers:
+      - gitcode_id: yanyefeng
+        name: 颜业峰
+        email: yanyefeng@huawei.com
+      - gitcode_id: yanzhenghang
+        name: 严正行
+        email: yanzhenghang@huawei.com
+
+    - path:
+      - src/coll_communicator_mgr/resource_mgr/local/my_rank/my_rank.h
+      - src/coll_communicator_mgr/rank_graph/rank_graph.h
       committers:
       - gitcode_id: yanzhenghang
         name: 严正行
