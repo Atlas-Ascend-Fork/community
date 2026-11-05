@@ -127,7 +127,7 @@ Pull Request 通常按以下流程处理：
 
 - 王丽健 [@wanglijian_zjec](https://gitcode.com/wanglijian_zjec), *wanglijian_zjec@126.com*
 - 刘志远 [@zhiyuanliu](https://gitcode.com/zhiyuanliu), *zhiyuanl@seu.edu.cn*
-- 刘少韦华 [@liushaoweihua1225](https://gitcode.com/liushaoweihua1225), *shaoweihualiu@seu.edu.com*
+- 刘少韦华 [@liushaoweihua1225](https://gitcode.com/liushaoweihua1225), *shaoweihualiu@seu.edu.cn*
 
 ### Committer 列表
 
