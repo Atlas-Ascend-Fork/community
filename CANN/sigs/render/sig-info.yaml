@@ -14,6 +14,7 @@ repositories:
   - gitcode_id: lixuanfu
   - gitcode_id: yangyang4536
   - gitcode_id: xbyb26
+  - gitcode_id: kangao619
 
 - repo:
   - cann/diffrast
@@ -24,3 +25,4 @@ repositories:
   - gitcode_id: Langjitianyatiantian
   - gitcode_id: yangyang4536
   - gitcode_id: xbyb26
+  - gitcode_id: kangao619
