@@ -69,15 +69,12 @@ tsc_members:
   - gitcode_id: gcw_LpVT5k8w
     name: 刘敬谦
     email: noahero_liu@hotmail.com
-  - gitcode_id: thierryzhong
-    name: 钟忻
-    email: thierryzhong@hotmail.com
-  - gitcode_id: jason2025
-    name: 梁寿愚
-    email: lsynd@126.com
   - gitcode_id: maoqiuli
     name: 毛秋力
     email: mql17@tsinghua.org.cn
   - gitcode_id: DrTangxc
     name: 汤雄超
     email: txc@qingcheng.ai
+  - gitcode_id: xuruifan
+    name: 徐瑞帆
+    email: xuruifan@deepseek.com

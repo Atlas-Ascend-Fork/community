@@ -35,11 +35,9 @@
 - 苏统华 thsu@hit.edu.cn [[@sutonghua]](https://gitcode.com/sutonghua)
 - 王斌 wanghoude@139.com [[@wanghoude]](https://gitcode.com/wanghoude)
 - 刘敬谦 noahero_liu@hotmail.com [[@gcw_LpVT5k8w]](https://gitcode.com/gcw_LpVT5k8w)
-- 钟忻 thierryzhong@hotmail.com [[@thierryzhong]](https://gitcode.com/thierryzhong)
-- 梁寿愚 lsynd@126.com [[@jason2025]](https://gitcode.com/jason2025)
 - 毛秋力 mql17@tsinghua.org.cn [[@maoqiuli]](https://gitcode.com/maoqiuli)
 - 汤雄超 txc@qingcheng.ai [[@DrTangxc]](https://gitcode.com/DrTangxc)
-
+- 徐瑞帆 xuruifan@deepseek.com [[@xuruifan]](https://gitcode.com/xuruifan)
 
 非常感谢您对CANN社区的奉献。
 
