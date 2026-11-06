@@ -60,8 +60,8 @@
 
 ## 文件名要求
 
-- 所有markdown文件名必须使用英文命名，详细要求参考[文档命名规范](https://gitcode.com/cann/community/blob/master/contributor/docs/document_writing_specs.md#%E6%96%87%E4%BB%B6%E5%91%BD%E5%90%8D)。
-- 文件名使用英文小写命名，多个单词以下划线（`_`）连接，如`quick_start.md`。
+- 文件名须以英文字母、数字或英文符号命名，符号建议使用下划线（_）或中划线（-），其他符号不推荐使用。
+- 文件名不宜过长，建议不超过70个字符，推荐50个字符以内。
 - 英文翻译文件命名规则：
   - **并列存放**：中文文件名加`_en`后缀，如`README.md` → `README_en.md`。
   - **分目录存放**：`docs/en/`下的文件名与`docs/zh/`下的中文文件完全一致，不加后缀。
