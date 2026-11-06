@@ -35,6 +35,7 @@
 - 张浩[@demoauguste](https://gitcode.com/demoauguste), *zhanghao418@huawei.com*
 ## Committer List
 - 郭炅[@goodpeople233](https://gitcode.com/goodpeople233), *guojiong1@huawei.com*
+- 马晨昊[@chenhao-ma](https://gitcode.com/chenhao-ma), *machenhao@cuhk.edu.cn*
 - 张天娇[@ztj0209](https://gitcode.com/ztj0209), *zhangtianjiao6@huawei.com*
 - 黄俊健[@monologue815](https://gitcode.com/monologue815), *huangjunjian3@huawei.com*
 - 邢凯鹏[@kpxing](https://gitcode.com/kpxing), *xingkaipeng@huawei.com*
@@ -79,6 +80,9 @@
 
 - ops-gnn（图神经网络算子仓）
   - repository地址：[https://gitcode.com/cann/ops-gnn](https://gitcode.com/cann/ops-gnn)
+
+- mp-ops-opt（数学规划优化求解器仓，提供 LP/MIP/VRP 求解能力）
+  - repository地址：[https://gitcode.com/cann/mp-ops-opt](https://gitcode.com/cann/mp-ops-opt)
 
 # 贡献指南
 - [贡献指南](CONTRIBUTING.md)

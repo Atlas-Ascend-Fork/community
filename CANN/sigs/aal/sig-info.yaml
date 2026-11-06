@@ -92,3 +92,15 @@ repositories:
   - gitcode_id: Splendid2025
   - gitcode_id: QK_25415
   - gitcode_id: gcw_CfilvwB1
+- repo:
+  - cann/mp-ops-opt
+  committers:
+  - gitcode_id: QK_25415
+    name: 朱志明
+    email: zhuzhiming1@huawei.com
+  - gitcode_id: goodpeople233
+    name: 郭炅
+    email: guojiong1@huawei.com
+  - gitcode_id: chenhao-ma
+    name: 马晨昊
+    email: machenhao@cuhk.edu.cn
