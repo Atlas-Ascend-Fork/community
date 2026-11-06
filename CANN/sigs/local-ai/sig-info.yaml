@@ -7,16 +7,51 @@ repositories:
 - repo:
   - cann/cann-local-lm
   committers:
-  - gitcode_id: jxkongyue
-  - gitcode_id: LiuXinxin23
+  - gitcode_id: u011317173
+  - gitcode_id: yangyangcann
   - gitcode_id: shengnan666
   - gitcode_id: luhengh
   - gitcode_id: airbak
-  - gitcode_id: tonganping
-  - gitcode_id: wdongming
-  - gitcode_id: yuchen97
-  - gitcode_id: Rayz62
-  - gitcode_id: zhouxiangyan
+  - gitcode_id: guxiuxiu
+  - gitcode_id: jxkongyue
   - gitcode_id: yanjiang-treasure
-  - gitcode_id: dw11705
-  entry_configs: []
+  - gitcode_id: wolflow666
+  - gitcode_id: LiuXinxin23
+  entry_configs:
+  - path:
+    - cann_local_lm/converter/quant
+    - docs
+    - examples
+    - tests
+    committers:
+    - gitcode_id: daijiayin
+    - gitcode_id: nice_123
+  - path:
+    - cann_local_lm/converter
+    - docs
+    - examples
+    - tests
+    - scripts
+    committers:
+    - gitcode_id: zhouxiangyan
+  - path:
+    - cann_local_lm/engine
+    - docs
+    - examples
+    - tests
+    committers:
+    - gitcode_id: Rayz62
+    - gitcode_id: mgggggg
+  - path:
+    - torch_delegate
+    committers:
+    - gitcode_id: luhengh
+    - gitcode_id: yuchen97
+    - gitcode_id: yelongjian
+    - gitcode_id: guopeian
+  - path:
+    - executorch_npu
+    committers:
+    - gitcode_id: luhengh
+    - gitcode_id: yuchen97
+    - gitcode_id: yelongjian
