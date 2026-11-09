@@ -51,7 +51,6 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 张芷萁 [@hw_zhangzhiqi](https://gitcode.com/hw_zhangzhiqi), *zhangzhiqi14@huawei.com*
 - 王政 [@wangzheng97](https://gitcode.com/wangzheng97), *wangzheng97@hisilicon.com*
 - 丛乾男 [@congqiannan](https://gitcode.com/congqiannan), *congqiannan@huawei.com*
-- 余蒙 [@ym-HW](https://gitcode.com/ym-HW), *yumeng21@hisilicon.com*
 - 韩君佩 [@codehjp423](https://gitcode.com/codehjp423), *hanjunpei@huawei.com*
 - 曹慧林 [@caodongdong](https://gitcode.com/caodongdong), *caohuilin@huawei.com*
 - 高翔 [@gaoxiang618](https://gitcode.com/gaoxiang618), *gaoxiang26@huawei.com*
@@ -61,6 +60,7 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 马可 [@make_pto](https://gitcode.com/make_pto), *make4@huawei.com*
 - 时定坤 [@shi-dingkun](https://gitcode.com/shi-dingkun), *shidingkun1@huawei.com*
 - 黄璐 [@lululu40888](https://gitcode.com/lululu40888), *huanglu22@hisilicon.com*
+- 张向杰 [@zhangxiangjie](https://gitcode.com/zhangxiangjie), *zhangxiangjie5@huawei.com*
 
 #### GYM仓库: https://gitcode.com/cann/pypto-gym
 
@@ -71,7 +71,6 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 杲兴旺 [@gaoxingwang](https://gitcode.com/gaoxingwang), *camuel.gao@huawei.com*
 - 王政 [@wangzheng97](https://gitcode.com/wangzheng97), *wangzheng97@hisilicon.com*
 - 丛乾男 [@congqiannan](https://gitcode.com/congqiannan), *congqiannan@huawei.com*
-- 余蒙 [@ym-HW](https://gitcode.com/ym-HW), *yumeng21@hisilicon.com*
 - 韩君佩 [@codehjp423](https://gitcode.com/codehjp423), *hanjunpei@huawei.com*
 - 高翔 [@gaoxiang618](https://gitcode.com/gaoxiang618), *gaoxiang26@huawei.com*
 - 王兵 [@wangbing110](https://gitcode.com/wangbing110), *wangbing110@huawei.com*
@@ -80,6 +79,7 @@ PTO是CANN推出的一款面向AI加速器的高性能编程系统，包括**PyP
 - 李圣贤[@li-shengxian3](https://gitcode.com/li-shengxian3), *lishengxian3@hisilicon.com*
 - Lim Jiunn Bin [@lim-jiunnbin](https://gitcode.com/lim-jiunnbin), *lim.jiunn.bin@huawei.com*
 - Pan Boyi [@pan-boyi](https://gitcode.com/pan-boyi), *panboyi@huawei.com*
+- 张向杰 [@zhangxiangjie](https://gitcode.com/zhangxiangjie), *zhangxiangjie5@huawei.com*
 
 #### PTO仓库: https://gitcode.com/cann/pto-isa
 

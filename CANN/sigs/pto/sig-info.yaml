@@ -23,7 +23,7 @@ repositories:
     - gitcode_id: hw_zhangzhiqi
     - gitcode_id: wangzheng97
     - gitcode_id: congqiannan
-    - gitcode_id: ym-HW
+    - gitcode_id: zhangxiangjie
     - gitcode_id: codehjp423
     - gitcode_id: caodongdong
     - gitcode_id: gaoxiang618
@@ -214,7 +214,7 @@ repositories:
     - python/src/bindings/pass_config.cpp
     committers:
     - gitcode_id: zhangyuebing
-    - gitcode_id: ym-HW
+    - gitcode_id: zhangxiangjie
     - gitcode_id: yinjie27_
     - gitcode_id: linjiashu
     - gitcode_id: gaoxiang618
@@ -278,7 +278,7 @@ repositories:
     - gitcode_id: gaoxingwang
     - gitcode_id: wangzheng97
     - gitcode_id: congqiannan
-    - gitcode_id: ym-HW
+    - gitcode_id: zhangxiangjie
     - gitcode_id: codehjp423
     - gitcode_id: gaoxiang618
     - gitcode_id: wangbing110
