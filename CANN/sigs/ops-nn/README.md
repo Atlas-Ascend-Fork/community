@@ -91,6 +91,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 鲍超俊[@void_ptr](https://gitcode.com/void_ptr), *baochaojun@huawei.com*
 - 杨东[@east_yang](https://gitcode.com/east_yang), *yangdong48@huawei.com*
 - 张志伟[@Nice_try](https://gitcode.com/Nice_try), *zhangzhiwei108@huawei.com*
+- 王瑞[@wangrui_](https://gitcode.com/wangrui_), *wangrui124@huawei.com*
 
 ### 细分领域：
 ### foreach、activation、norm committer列表：
@@ -101,6 +102,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
 - 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
+- 王瑞[@wangrui_](https://gitcode.com/wangrui_), *wangrui124@huawei.com*
 - 钱泽洪[@qianzehong](https://gitcode.com/qianzehong), *qianzehong@huawei.com*
 - 陈兴宇[@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
 - 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
@@ -134,6 +136,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
 - 汤平川[@pingchuantang](https://gitcode.com/pingchuantang), *tangpingchuan@huawei.com*
+- 王瑞[@wangrui_](https://gitcode.com/wangrui_), *wangrui124@huawei.com*
 - 钱泽洪[@qianzehong](https://gitcode.com/qianzehong), *qianzehong@huawei.com*
 - 陈兴宇[@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
 - 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
