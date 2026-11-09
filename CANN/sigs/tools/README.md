@@ -41,4 +41,5 @@
 - 陈豪 [[@chenhao_1209]](https://gitcode.com/chenhao_1209), *chenhao61@huawei.com*
 - 张杰 [[@newstarzj]](https://gitcode.com/newstarzj), *zhangjie230@huawei.com*
 - 陈萍萍 [[@sophia1213]](https://gitcode.com/sophia1213), *sophie.chen@huawei.com*
+- 刘晓芳[@lwx1255555](https://gitcode.com/lwx1255555), *liuxiaofang22@h-partners.com*
 

@@ -55,6 +55,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 王子韬[@wangzitao_leo](https://gitcode.com/wangzitao_leo), *wangzitao4@huawei.com*
 - 陈娇[@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 杜慧萍[@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
+- 刘晓芳[@lwx1255555](https://gitcode.com/lwx1255555), *liuxiaofang22@h-partners.com*
 - 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 - 蔡雯雯[@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
@@ -194,6 +195,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 ### 资料 committer列表
 - 陈娇[@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 杜慧萍[@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
+- 刘晓芳[@lwx1255555](https://gitcode.com/lwx1255555), *liuxiaofang22@h-partners.com*
 - 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 - 蔡雯雯[@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*

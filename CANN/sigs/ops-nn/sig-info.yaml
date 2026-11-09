@@ -55,6 +55,9 @@ repositories:
     - gitcode_id: yanglu-1
       name: 杨露
       email: yanglou1@h-partners.com
+    - gitcode_id: lwx1255555
+      name: 刘晓芳
+      email: liuxiaofang22@h-partners.com
   - path:
     - "*/*/op_host/op_api/*.h"
     - "*/*/op_host/*_def.cpp"

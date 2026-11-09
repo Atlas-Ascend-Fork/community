@@ -27,7 +27,7 @@ Committer列表：
 - 牟楠[@munanhw](https://gitcode.com/munanhw), *munan@huawei.com*
 - 陈娇[@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 艾鑫[@ai_xin](https://gitcode.com/ai_xin), *aixin2@hisilicon.com*
-- 刘晓芳[@lwx1255555](https://gitcode.com/lwx1255555), *liuxiaofang17@huawei-partners.com*
+- 刘晓芳[@lwx1255555](https://gitcode.com/lwx1255555), *liuxiaofang22@h-partners.com*
 - 陈萍萍[@sophia1213](https://gitcode.com/sophia1213), *sophia.chen@huawei.com*
 - 李闫珍[@lyz0328](https://gitcode.com/lyz0328), *liyanzhen@huawei.com*
 - 叶成美[@ycm0028](https://gitcode.com/ycm0028), *yechengmei@huawei.com*

@@ -31,9 +31,11 @@ repositories:
     - gitcode_id: caiwenwen
     - gitcode_id: yanglu-1
     - gitcode_id: gitee-duhuiping
+    - gitcode_id: lwx1255555
     - gitcode_id: fengying555682
     - gitcode_id: claire8090
     - gitcode_id: zzzzzzyf_
+    
 
   - path:                               # DT，编译构建等相关公共代码
     - cmake
@@ -341,6 +343,7 @@ repositories:
     - gitcode_id: gitcode-chenjiao
     - gitcode_id: yanglu-1
     - gitcode_id: gitee-duhuiping
+    - gitcode_id: lwx1255555
     - gitcode_id: zhouwenfang
     - gitcode_id: wuyao51511
     - gitcode_id: claire8090

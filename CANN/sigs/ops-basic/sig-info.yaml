@@ -96,6 +96,7 @@ repositories:
     - gitcode_id: fengying555682
     - gitcode_id: caiwenwen
     - gitcode_id: yanglu-1
+    - gitcode_id: lwx1255555
   - path:
     - image/crop_and_resize
     committers:
@@ -295,6 +296,7 @@ repositories:
     - gitcode_id: fengying555682
     - gitcode_id: caiwenwen
     - gitcode_id: yanglu-1
+    - gitcode_id: lwx1255555
   - path:
     - conversion/as_strided
     - conversion/clip_by_value_v2

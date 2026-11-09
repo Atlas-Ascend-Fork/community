@@ -32,12 +32,19 @@ repositories:
     - gitcode_id: lilianlin_hw
     - gitcode_id: lilin_137
   - path:
-    - docs/zh/hccl_test
-    - docs/en/hccl_test
+    - docs/zh/user_guide/hccl_test
+    - docs/en/user_guide/hccl_test
     committers:
     - gitcode_id: flyswa
     - gitcode_id: claire8090
     - gitcode_id: yanyefeng
+  - path:
+    - docs/zh/user_guide/profiling
+    - docs/zh/user_guide/env-vars
+    - docs/en/user_guide/profiling
+    - docs/en/user_guide/env-vars
+    committers:
+    - gitcode_id: lwx1255555
 - repo:
   - cann/npu-simulator
   committers:

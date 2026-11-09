@@ -76,6 +76,7 @@
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 蔡雯雯 [@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 - 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
+- 刘晓芳[@lwx1255555](https://gitcode.com/lwx1255555), *liuxiaofang22@h-partners.com*
 - 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 - 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
@@ -229,6 +230,7 @@
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 蔡雯雯 [@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 - 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
+- 刘晓芳[@lwx1255555](https://gitcode.com/lwx1255555), *liuxiaofang22@h-partners.com*
 - 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
 - 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
