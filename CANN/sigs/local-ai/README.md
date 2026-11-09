@@ -42,8 +42,9 @@
 
 我们欢迎您参与我们的SIG会议，在线交流，一起探讨
 
+*   **[例会时间]**：每双周周四上午 10:00 - 10:45（UTC+8）
 *   **[邮件订阅](https://mailweb.cann.osinfra.cn/mailman3/lists/local-ai.cann.osinfra.cn/)**
-*   **[在线会议议题看板](https://etherpad-cann.meeting.osinfra.cn/p/sig-local-ai)**：例会时间与议题以看板公示为准
+*   **[在线会议议题看板](https://etherpad-cann.meeting.osinfra.cn/p/sig-local-ai)**：会议议题以看板公示为准
 
 ### 📝 SIG成员（Members）
 
