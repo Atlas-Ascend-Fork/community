@@ -57,7 +57,6 @@ GE SIG 是 CANN 图模式研发的技术兴趣小组，聚焦于**图编译器�
 - 储星[@xchu42](https://gitcode.com/xchu42), *chuxing@huawei.com*
 - 赵智慧[@zhaozhihui](https://gitcode.com/zhaozhihui), *zhaozhihui5@huawei.com*
 - 李沛洋[@peiyang](https://gitcode.com/peiyang), *lipeiyang@huawei.com*
-- 李宁[@lining23666](https://gitcode.com/lining23666), *lining.li@huawei.com*
 - 耿超[@kobemini](https://gitcode.com/kobemini), *gengchao4@huawei.com*
 - 黄桂军[@stevenaw0](https://gitcode.com/stevenaw0), *huangguijun@huawei.com*
 - 薛鹏[@medivh-x](https://gitcode.com/medivh-x), *xuepeng4@huawei.com*
@@ -86,6 +85,8 @@ GE SIG 是 CANN 图模式研发的技术兴趣小组，聚焦于**图编译器�
 - 谢正恺[@ClarkXie](https://gitcode.com/ClarkXie),*xiezhengkai@huawei.com*
 - 杜花[@du-hua1024](https://gitcode.com/du-hua1024),*duhua2@huawei.com*
 - 郭培安[@guopeian](https://gitcode.com/guopeian),*guopeian1@hisilicon.com*
+- 王宇晨[@yuchen97](https://gitcode.com/yuchen97),*wangyuchen38@huawei.com*
+- 朱新成[@SeasonChu](https://gitcode.com/SeasonChu),*zhuxincheng2@huawei.com*
 
 ## 社区运作
 

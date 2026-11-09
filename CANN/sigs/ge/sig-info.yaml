@@ -45,7 +45,6 @@ repositories:
   - gitcode_id: kobemini
   - gitcode_id: stevenaw0
   - gitcode_id: wangxiaotian995
-  - gitcode_id: lining23666
   - gitcode_id: zhanj
   - gitcode_id: hugo111
   - gitcode_id: yuht9
@@ -59,6 +58,8 @@ repositories:
   - gitcode_id: ClarkXie
   - gitcode_id: tang-haojie
   - gitcode_id: du-hua1024
+  - gitcode_id: yuchen97
+  - gitcode_id: SeasonChu
   entry_configs:
   - path:
     - inc/external
