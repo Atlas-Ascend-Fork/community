@@ -147,6 +147,7 @@ repositories:
     - plugins-official/hccl-op-generator
     committers:
     - gitcode_id: cann_wangyq
+    - gitcode_id: jon_jin
   - path:
     - plugins-community/pypto-pro-op-orchestrator
     committers:
