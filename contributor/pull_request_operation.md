@@ -1,4 +1,4 @@
-#  PR（Pull Request）操作指南
+# PR（Pull Request）操作指南
 ---
 
 ## 1. 🛠️ 准备开发环境
@@ -14,29 +14,33 @@ CANN 社区不同的项目可能使用不同的编程语言、开发框架和编
 本章节提供基础规范供社区开发者参考：
 
 | 类别  | 规范及要求 |
-| --- | --- | 
+| --- | --- |
 | 设计 | [安全设计指南](coding-standards/SecureDesign.md) |
 | 编码 | [C++编程规范](coding-standards/C++%20Coding%20standards.md) |
 | 编码 | [安全编码规范](coding-standards/SecureCoding.md)  |
+| 编码 | [版权与许可证声明规范](copyright-license-declaration.md) |
 | 编码 | [片段引用指导](third_party/snippet-reference-guideline.md) |
 | 编译 | [安全编译选项](coding-standards/SecureCompile%28C%26C%2B%2B%29.md) |
 | 文档 | [文档写作规范](docs/document_writing_specs.md) |
 
 ### 2.2 版权声明
 
-在参与项目贡献前，请务必仔细阅读项目根目录下的 `LICENSE` 文件，并确保您的所有贡献符合该许可证的要求。
+在参与项目贡献前，请务必：
 
-#### 版权声明要求：
+1. 仔细阅读项目根目录下的 `LICENSE` 文件，并确保您的所有贡献符合该许可证的要求；
+2. 按类型与文件后缀遵守 [版权与许可证声明规范](copyright-license-declaration.md)。
 
-请在所有新建的源代码文件（如 `.cpp`, `.h`, `.py` 等）头部添加规范的版权声明。
+#### 2.2.1 按仓库类型的要求（摘要）
 
-#### 声明模板：
+| 仓库类型 | 仓级 LICENSE | 源码文件头 | 许可与版权人 |
+|---|---|---|---|
+| **发布类** | 必须（默认 CANN 2.0） | **必须**（源码类后缀） | **必须**规范的版权声明与许可 |
+| **创新类** | 必须（**不强制** CANN 2.0；可选 Apache-2.0 / MIT / BSD 等 [OSI 批准许可](https://opensource.org/licenses)） | **建议** 源码类后缀声明，格式规范 | 须写清真实版权人与所选许可|
+| **文档指南类** | 必须 | **不强制** | 仓级声明即可 |
 
-请根据项目采用的许可证，选择对应的声明模板：
+源码类 / 非源码类后缀清单、构建脚本是否应当声明等细则，以总则为准，此处不重复罗列。
 
-**对于 Apache 2.0、MIT 等常见开源协议** 
-    
-建议从官方渠道获取标准的版权声明头。你可以访问 [Open Source Initiative](https://opensource.org/licenses) 或该许可证的官方网站查询具体要求。
+#### 2.2.2 声明模板
 
 **对于 CANN Open Software License Agreement Version 2.0**
 > **注意**： 以下模板中的\<yyyy\>、[name of copyright owner]需要更改为首次创建年份和贡献者信息（组织或者个人），
@@ -50,6 +54,25 @@ THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, E
 INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
 See LICENSE in the root of the software repository for the full text of the License.
 ```
+
+**对于 Apache 2.0、MIT 等常见开源协议**
+
+建议从官方渠道获取标准的版权声明头。你可以访问 [Open Source Initiative](https://opensource.org/licenses) 或该许可证的官方网站查询具体要求。
+示例：
+
+```text
+Copyright (c) <yyyy> [name of copyright owner]
+SPDX-License-Identifier: <SPDX-ID>
+```
+
+并确保根目录存在完整许可文本。更多示例见 [版权与许可证声明规范 5](copyright-license-declaration.md)。
+
+**对于文档指南类**
+
+按需为 `.md` 等文档逐文件添加版权头；保持仓级 `LICENSE` 正确即可。
+
+#### 2.2.3 注意事项
+- 对 `third_party` 上游代码批量替换为 CANN 头 —— **禁止**；应保留原声明并按三方件/片段引用规范处理。
 
 ## 3. 🔄 贡献提交流程
 
@@ -73,12 +96,12 @@ See LICENSE in the root of the software repository for the full text of the Lice
 ### 3.4 代码审查
 - **测试未通过**：根据门禁反馈修改代码
 - **测试通过**：PR 将分配给 Committer 进行审查，您可以在PR评论区通过`@committer_gitcode_id`提醒 Committer 进行审查，然后及时关注审查意见并进行相应调整。
-
 ### 3.5 代码合入
 - PR 审查通过后，代码将合入项目主线。
 
 ### 📚 扩展资源
 
+- [**版权与许可证声明规范**](copyright-license-declaration.md) - 版权与许可证声明总则
 - [**GitCode 工作流详细说明**](gitcode-workflow.md) - 完整的代码贡献流程指南
 - [**常见问题解答 (FAQs)**](https://gitcode.com/cann/infrastructure/tree/master/docs/FAQ) - 提交 PR 过程中遇到的问题解决方案
 
