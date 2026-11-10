@@ -221,7 +221,9 @@ repositories:
   - path:
     - cmake
     committers:
+    - gitcode_id: changxianyu
     - gitcode_id: DragonBornHD84
+    - gitcode_id: dengjing_aoe
     - gitcode_id: jiangxinyu3
     - gitcode_id: chenma
     - gitcode_id: zhanghao_0689
@@ -245,6 +247,8 @@ repositories:
     - src
     committers:
     - gitcode_id: changxianyu
+    - gitcode_id: DragonBornHD84
+    - gitcode_id: dengjing_aoe
     - gitcode_id: qin437231
     - gitcode_id: xiaoting624
     - gitcode_id: suqwe
@@ -258,6 +262,8 @@ repositories:
     - examples
     committers:
     - gitcode_id: changxianyu
+    - gitcode_id: DragonBornHD84
+    - gitcode_id: dengjing_aoe
     - gitcode_id: qin437231
     - gitcode_id: xiaoting624
     - gitcode_id: suqwe
@@ -271,6 +277,8 @@ repositories:
     - tests
     committers:
     - gitcode_id: changxianyu
+    - gitcode_id: DragonBornHD84
+    - gitcode_id: dengjing_aoe
     - gitcode_id: qin437231
     - gitcode_id: xiaoting624
     - gitcode_id: suqwe
