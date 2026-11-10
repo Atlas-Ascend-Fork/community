@@ -25,7 +25,6 @@ repositories:
   - gitcode_id: kong0808
   - gitcode_id: jiangxinyu3
   - gitcode_id: wulinyu
-  - gitcode_id: bluesky901
   - gitcode_id: yukangchen
   - gitcode_id: zengjuan
   - gitcode_id: hyolee
@@ -51,7 +50,6 @@ repositories:
     - gitcode_id: jiangxinyu3
     - gitcode_id: DragonBornHD84
     - gitcode_id: zhanghao_0689
-    - gitcode_id: bluesky901
     - gitcode_id: YeZZzzz1
     - gitcode_id: shi_nanxiang
     - gitcode_id: kong0808
@@ -103,11 +101,6 @@ repositories:
     - gitcode_id: ascendhjh
     - gitcode_id: zhanghao_0689
   - path:
-    - include/experimental/tensor_api
-    committers:
-    - gitcode_id: ascendhjh
-    - gitcode_id: wuzhaolin
-  - path:
     - include/tensor_api
     committers:
     - gitcode_id: ascendhjh
@@ -133,18 +126,11 @@ repositories:
     - impl/c_api
     committers:
     - gitcode_id: pangfd
-    - gitcode_id: yue_mo_du_qian
     - gitcode_id: Lycheeeee
-  - path:
-    - impl/experimental/tensor_api
-    committers:
-    - gitcode_id: pangfd
-    - gitcode_id: yue_mo_du_qian
   - path:
     - impl/tensor_api
     committers:
     - gitcode_id: pangfd
-    - gitcode_id: yue_mo_du_qian
     - gitcode_id: hyolee
   - path:
     - impl/simt_api
@@ -188,7 +174,6 @@ repositories:
   committers:
   - gitcode_id: wangxiaozhi
   - gitcode_id: xun_zhuge
-  - gitcode_id: ookkkkoo1122
   - gitcode_id: bianque
   - gitcode_id: zhudi22
   - gitcode_id: houyuyang
@@ -223,7 +208,6 @@ repositories:
   - gitcode_id: suqwe
   - gitcode_id: kong0808
   - gitcode_id: jiangxinyu3
-  - gitcode_id: bluesky901
   - gitcode_id: hyolee
   - gitcode_id: chenma
   - gitcode_id: changxianyu
@@ -268,7 +252,6 @@ repositories:
     - gitcode_id: houyuyang
     - gitcode_id: jiangxinyu3
     - gitcode_id: YeZZzzz1
-    - gitcode_id: bluesky901
     - gitcode_id: chenma
     - gitcode_id: shi_nanxiang
   - path:
@@ -282,7 +265,6 @@ repositories:
     - gitcode_id: houyuyang
     - gitcode_id: jiangxinyu3
     - gitcode_id: YeZZzzz1
-    - gitcode_id: bluesky901
     - gitcode_id: chenma
     - gitcode_id: shi_nanxiang
   - path:
@@ -296,7 +278,6 @@ repositories:
     - gitcode_id: houyuyang
     - gitcode_id: jiangxinyu3
     - gitcode_id: YeZZzzz1
-    - gitcode_id: bluesky901
     - gitcode_id: chenma
     - gitcode_id: shi_nanxiang
 
@@ -311,7 +292,6 @@ repositories:
   - gitcode_id: suqwe
   - gitcode_id: dengjing_aoe
   - gitcode_id: YeZZzzz1
-  - gitcode_id: bluesky901
   - gitcode_id: DragonBornHD84
   - gitcode_id: kong0808
   - gitcode_id: hyyisasleep
