@@ -112,12 +112,10 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 
 ### quant committer列表：
 - 查建青[@zhajianqing123](https://gitcode.com/zhajianqing123), *zhajianqing@huawei.com*
-- 商晓波[@sxb154714](https://gitcode.com/sxb154714), *shangxiaobo1@hisilicon.com*
 - 王子韬[@wangzitao_leo](https://gitcode.com/wangzitao_leo), *wangzitao4@huawei.com*
 - 刘杰[@liujie12345678](https://gitcode.com/liujie12345678), *liujie81@huawei.com*
 - 陈昊文[@Chen_HaoWen](https://gitcode.com/Chen_HaoWen), *chenhaowen12@huawei.com*
 - 陈风[@chenfeng61](https://gitcode.com/chenfeng61), *chenfeng61@huawei.com*
-- 林鹏翔[@LinPX](https://gitcode.com/LinPX), *linpengxiang1@hisilicon.com*
 - 王星[@wang-xing001](https://gitcode.com/wang-xing001), *wangxing73@huawei.com*
 - 徐炳麟[@xubinglin](https://gitcode.com/xubinglin), *xubinglin@huawei.com*
 - 苏跃明[@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*

@@ -183,9 +183,6 @@ repositories:
     - gitcode_id: wangzitao_leo
       name: 王子韬
       email: wangzitao4@huawei.com
-    - gitcode_id: sxb154714
-      name: 商晓波
-      email: shangxiaobo1@hisilicon.com
     - gitcode_id: liujie12345678
       name: 刘杰
       email: liujie81@huawei.com
@@ -195,9 +192,6 @@ repositories:
     - gitcode_id: chenfeng61
       name: 陈风
       email: chenfeng61@huawei.com
-    - gitcode_id: LinPX
-      name: 林鹏翔
-      email: linpengxiang1@hisilicon.com
     - gitcode_id: wang-xing001
       name: 王星
       email: wangxing73@huawei.com
