@@ -382,6 +382,9 @@ repositories:
     - gitcode_id: void_ptr
       name: 鲍超俊
       email: baochaojun@huawei.com
+    - gitcode_id: smdbha
+      name: 潘志杰
+      email: panzhijie2@huawei.com
   - path:
     - conv
     committers:
