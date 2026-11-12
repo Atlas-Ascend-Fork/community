@@ -57,6 +57,7 @@
 ## CANN开源开放系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261109 | CANN知识库开源：如何用领域知识库让算子生成与调试快人一步？ | sig-cannbot | [链接](./slides/sig-cannbot/20261109) | [链接](https://www.bilibili.com/video/BV1wuWt65EpU) |
 | 20260806 | Agent-Friendly范式探索: 基于CANNBot的高性能复杂算子生成 | sig-cannbot | [链接](./slides/sig-cannbot/20260806) | [链接](https://www.bilibili.com/video/BV1Pdun6ZEgx/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260724 | 从“会炫技”到“会工作”:人形机器人如何真正走进现实世界 | sig-embodied-ai | [链接](./slides/sig-embodied-ai/20260724) | [链接](https://www.bilibili.com/video/BV1mrge6BEvh/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260722 | Graph-autofusion自动融合技术解读 | sig-ge | [链接](./slides/sig-ge/20260722) | [链接](https://www.bilibili.com/video/BV1wxgk6QEmn/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -85,6 +86,7 @@
 ## CANN Insight系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261110 | DeepSeek-V4.1-Flash MegaKernel + CANNBot-DSL 实践：大模型推理如何突破性能瓶颈 | sig-cannbot | [链接](./slides/sig-cannbot/20261110) | [链接](https://www.bilibili.com/video/BV1nHW36cEyq) |
 | 20261026 | DeepSeek推理性能跃迁4.5倍，ACL Graph技术解密 | sig-runtime | [链接](./slides/sig-runtime/20261026) | [链接](https://www.bilibili.com/video/BV1oUnZ67EZx) |
 | 20261010 | CANNBot-DSL：用 Agent Friendly 编程范式，生成高性能的复杂融合算子 | sig-cannbot | [链接](./slides/sig-cannbot/20261010) | [链接](https://www.bilibili.com/video/BV1irpu61EA6/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20261010 | 2.8倍性能提升！基于CANN实现Kimi K3高性能推理 | sig-recipes | [链接](./slides/sig-recipes/20261010) | [链接](https://www.bilibili.com/video/BV1dppg62Egt/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -159,6 +161,7 @@
 ## CANN 竞赛活动
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261030 | CANN挑战赛 决赛赛题解析（杭厦、上合） | - | [链接](./slides/cann-learning-hub/20261030) | [链接](https://www.bilibili.com/video/BV159xe6sETx) |
 | 20261023 | CANN挑战赛 决赛赛题解析 | - | [链接](./slides/cann-learning-hub/20261023) | [链接](https://www.bilibili.com/video/BV1FSnt6KEx1) |
 | 20260915 | CANN算子天梯赛8-9月赛题解析 | - | [链接](./slides/cann-learning-hub/20260915) | [链接](https://www.bilibili.com/video/BV1ohen63EML/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
 | 20260910 | CANN挑战赛赛题发布 | - | [链接](./slides/cann-learning-hub/20260910) | [链接](https://www.bilibili.com/video/BV1AuYg6XE5r/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
