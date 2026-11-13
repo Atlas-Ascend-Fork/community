@@ -57,17 +57,45 @@ repositories:
     - gitcode_id: jon_jin
   - path:
     - ops/ascendc-code-review
+    committers:
+    - gitcode_id: jia0liang
+    - gitcode_id: DaiHuina1
+  - path:
     - ops/ops-mssanitizer
-    - ops/ascendc-docs-gen
     committers:
     - gitcode_id: DaiHuina1
-    - gitcode_id: jon_jin
     - gitcode_id: dengguojie
   - path:
     - community/ops/pypto-pro-kernel
     committers:
     - gitcode_id: ddddwe
     - gitcode_id: wangzheng97
+  - path:
+    - ops/ascendc-blaze-best-practice
+    - ops/ascendc-blaze-migration
+    committers:
+    - gitcode_id: dai-zhentao
+    - gitcode_id: jon_jin
+  - path:
+    - ops/ops-design-paradigms
+    committers:
+    - gitcode_id: guankarl
+    - gitcode_id: jia0liang
+  - path:
+    - ops/ascendc-simt-best-practices
+    - ops/ascendc-simt-tiling-design
+    committers:
+    - gitcode_id: guankarl
+    - gitcode_id: jia0liang
+  - path:
+    - "infra/docs-*"
+    - ops/ascendc-api-docs-gen
+    - ops/ascendc-api-docs-review
+    - ops/ascendc-docs-gen
+    - ops/ascendc-docs-review
+    committers:
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: ai_xin
 - repo:
   - cann/cann-bench
   committers:
@@ -76,6 +104,7 @@ repositories:
   - gitcode_id: gxj1123
   - gitcode_id: vINyLogY
   - gitcode_id: Deng_Pan
+  - gitcode_id: test_hw_gitcode_399
 - repo:
   - cann/cannbot-dsl
   committers:
@@ -153,6 +182,11 @@ repositories:
     committers:
     - gitcode_id: ddddwe
     - gitcode_id: wangzheng97
+  - path:
+    - plugins-community/collaborative-agent-kernel-evolution
+    committers:
+    - gitcode_id: gcw_P2Mh5H1S
+    - gitcode_id: jon_jin
 - repo:
   - cann/cannbot-knowledge
   committers:
@@ -163,3 +197,15 @@ repositories:
   - gitcode_id: zhengshencn_hwca
   - gitcode_id: xfwang_ecnu
   - gitcode_id: lczheng
+  - gitcode_id: bianque
+  entry_configs:
+  - path:
+    - knowledge/ops/ascendc
+    committers:
+    - gitcode_id: Lycheeeee
+    - gitcode_id: bianque
+  - path:
+    - knowledge/tools
+    committers:
+    - gitcode_id: jinyingqi
+    - gitcode_id: lczheng

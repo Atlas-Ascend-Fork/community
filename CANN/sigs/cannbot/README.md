@@ -50,6 +50,11 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 龙吉晖 [@longjihui](https://gitcode.com/longjihui), *longjihui@huawei.com*
 - 戴慧娜 [@DaiHuina1](https://gitcode.com/DaiHuina1), *daihuina1@huawei.com*
 - Cheng Yu [@ddddwe](https://gitcode.com/ddddwe), *cheng.yu1@huawei.com*
+- 陈佳良 [@jia0liang](https://gitcode.com/jia0liang), *chenjialiang@huawei.com*
+- 戴振韬 [@dai-zhentao](https://gitcode.com/dai-zhentao), *daizhentao1@hisilicon.com*
+- 管宏伟 [@guankarl](https://gitcode.com/guankarl), *guanhongwei3@huawei.com*
+- 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
+- 艾鑫 [@ai_xin](https://gitcode.com/ai_xin), *aixin2@hisilicon.com*
 
 **cann/cannbot**
 - 宋恺 [@songkai111](https://gitcode.com/songkai111)
@@ -74,6 +79,7 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 龙吉晖 [@longjihui](https://gitcode.com/longjihui), *longjihui@huawei.com*
 - 戴慧娜 [@DaiHuina1](https://gitcode.com/DaiHuina1), *daihuina1@huawei.com*
 - Cheng Yu [@ddddwe](https://gitcode.com/ddddwe), *cheng.yu1@huawei.com*
+- 范峻逸 [@gcw_P2Mh5H1S](https://gitcode.com/gcw_P2Mh5H1S), *fan.junyi@huawei.com*
 
 **cann/cann-bench**
 - 苏跃明 [@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
@@ -81,6 +87,7 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 高雪健 [@gxj1123](https://gitcode.com/gxj1123), *gao.xuejian1@huawei.com*
 - 陈薪先 [@vINyLogY](https://gitcode.com/vINyLogY), *vinylogy9@gmail.com*
 - 潘登 [@Deng_Pan](https://gitcode.com/Deng_Pan), *pan.deng@huawei.com*
+- 李佳笙 [@test_hw_gitcode_399](https://gitcode.com/test_hw_gitcode_399), *jiasheng.li@huawei.com*
 
 **cann/cannbot-dsl**
 - 刘俊 [@liujun2025](https://gitcode.com/liujun2025), *liuhao9@huawei.com*
@@ -105,6 +112,9 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 沈铮 [@zhengshencn_hwca](https://gitcode.com/zhengshencn_hwca), *zheng.shen@huawei.com*
 - 王祥丰 [@xfwang_ecnu](https://gitcode.com/xfwang_ecnu), *xfwang@cs.ecnu.edu.cn*
 - 郑灵超 [@lczheng](https://gitcode.com/lczheng), *zhenglingchao@huawei.com*
+- 黄诗鹤 [@bianque](https://gitcode.com/bianque), *huangshihe2@hisilicon.com*
+- 李俊文 [@Lycheeeee](https://gitcode.com/Lycheeeee), *lijunwen13@hisilicon.com*
+- 金瑛棋 [@jinyingqi](https://gitcode.com/jinyingqi), *jinyingqi@huawei.com*
 
 # SIG订阅
 
