@@ -767,7 +767,7 @@ if (someConditions) {
 ##### 规则 1.3.15 case/default语句相对switch缩进一层
 
 **【描述】**
-`case/default`语句相对``switch`缩进一层，`case`中的语句相对`case`缩进一层。
+`case/default`语句相对`switch`缩进一层，`case`中的语句相对`case`缩进一层。
 
 **【反例】**
 
