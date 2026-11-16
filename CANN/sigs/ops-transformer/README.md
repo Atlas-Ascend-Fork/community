@@ -50,7 +50,6 @@
 - 高翔 [@gaoxiang618](https://gitcode.com/gaoxiang618), *gaoxiang26@huawei.com*
 - 黄伟 [@huangwei791](https://gitcode.com/huangwei791), *huangwei791@huawei.com*
 - 苗方正 [@miaofangzheng](https://gitcode.com/miaofangzheng), *miaofangzheng@huawei.com*
-- 温忻 [@wenxin_fight](https://gitcode.com/wenxin_fight), *wenxin20@hisilicon.com*
 - 王永光 [@wangyongguang](https://gitcode.com/wangyongguang), *wangyongguang1@huawei.com*
 - 於欣洁 [@yu-xinjie62](https://gitcode.com/yu-xinjie62), *yuxinjie1@huawei.com*
 - 俞浩 [@yuhao_](https://gitcode.com/yuhao_), *yuhao93@huawei.com*
@@ -72,14 +71,12 @@
 - 杨泽恒 [@yangzeheng](https://gitcode.com/yangzeheng), *yangzeheng@huawei.com*
 - 罗柏清 [@luobaiqing](https://gitcode.com/luobaiqing), *luobaiqing1@huawei.com*
 - 林玮 [@tgwsakiko_](https://gitcode.com/tgwsakiko_), *linwei69@huawei.com*
-- 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 蔡雯雯 [@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 - 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
 - 刘晓芳[@lwx1255555](https://gitcode.com/lwx1255555), *liuxiaofang22@h-partners.com*
 - 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
-- 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
 - 周云飞 [@zzzzzzyf_](https://gitcode.com/zzzzzzyf_), *zhouyunfei10@huawei.com*
 - 林竹 [@coder_linx](https://gitcode.com/coder_linx), *linzhu3@huawei.com*
 - 宋炯辉 [@songjionghui](https://gitcode.com/songjionghui), *songjionghui@huawei.com*
@@ -230,14 +227,12 @@
 - 王荀 [@wangxun21](https://gitcode.com/wangxun21), *wangxun21@huawei.com*
 
 ## 资料 committer列表：
-- 郑雯文 [@Ww7012](https://gitcode.com/Ww7012), *zhengwenwen7@huawei.com*
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 蔡雯雯 [@caiwenwen](https://gitcode.com/caiwenwen), *caiwenwen6@h-partners.com*
 - 杜慧萍 [@gitee-duhuiping](https://gitcode.com/gitee-duhuiping), *duhuiping@h-partners.com*
 - 刘晓芳[@lwx1255555](https://gitcode.com/lwx1255555), *liuxiaofang22@h-partners.com*
 - 冯英[@fengying555682](https://gitcode.com/fengying555682), *fengying27@h-partners.com*
 - 杨露[@yanglu-1](https://gitcode.com/yanglu-1), *yanglou1@h-partners.com*
-- 袁滔 [@claire8090](https://gitcode.com/claire8090), *yuantao27@h-partners.com*
 
 # SIG订阅
 

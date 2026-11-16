@@ -26,14 +26,12 @@ repositories:
     - "*/*/docs/acl*.md"
     - "*/*/README.md"
     committers:
-    - gitcode_id: Ww7012
     - gitcode_id: gitcode-chenjiao
     - gitcode_id: caiwenwen
     - gitcode_id: yanglu-1
     - gitcode_id: gitee-duhuiping
     - gitcode_id: lwx1255555
     - gitcode_id: fengying555682
-    - gitcode_id: claire8090
     - gitcode_id: zzzzzzyf_
     
 
@@ -160,7 +158,6 @@ repositories:
     - gitcode_id: gaoxiang618
     - gitcode_id: huangwei791
     - gitcode_id: miaofangzheng
-    - gitcode_id: wenxin_fight
     - gitcode_id: yu-xinjie62
     - gitcode_id: yuhao_
     - gitcode_id: crystalhu
@@ -213,7 +210,6 @@ repositories:
     - gitcode_id: mabing1118
     - gitcode_id: jiang-lirui
     - gitcode_id: chenkang30
-    - gitcode_id: wenxin_fight
     - gitcode_id: chaotang233
     - gitcode_id: chen-linxin4
     - gitcode_id: cc-z
