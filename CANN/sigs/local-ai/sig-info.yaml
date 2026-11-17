@@ -20,28 +20,18 @@ repositories:
   entry_configs:
   - path:
     - cann_local_lm/converter/quant
-    - docs
-    - examples
-    - tests
     committers:
     - gitcode_id: daijiayin
     - gitcode_id: nice_123
   - path:
     - cann_local_lm/converter
-    - docs
-    - examples
-    - tests
-    - scripts
     committers:
     - gitcode_id: zhouxiangyan
   - path:
     - cann_local_lm/engine
-    - docs
-    - examples
-    - tests
     committers:
     - gitcode_id: Rayz62
-    - gitcode_id: mgggggg
+    - gitcode_id: mikumiku666
   - path:
     - torch_delegate
     committers:
@@ -55,3 +45,14 @@ repositories:
     - gitcode_id: luhengh
     - gitcode_id: yuchen97
     - gitcode_id: yelongjian
+  - path:
+    - docs
+    - examples
+    - tests
+    - scripts
+    committers:
+    - gitcode_id: daijiayin
+    - gitcode_id: nice_123
+    - gitcode_id: zhouxiangyan
+    - gitcode_id: Rayz62
+    - gitcode_id: mikumiku666
