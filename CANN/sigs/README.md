@@ -22,6 +22,7 @@ CANN社区由多个Special Interest Groups（SIGs）组成，每个SIG负责特�
 | [hccl](./hccl/README.md) | 提供集群通信库，开放底层基础通信能力，涵盖集合通信、点到点通信和单边通信等场景通信算子。                                           |
 | [infrastructure](./infrastructure/README.md) | CANN社区基础设施聚焦为CANN相关的开源项目提供易用，高效，安全的开发者和用户服务。                                           |
 | [intelligent-transportation-system](./intelligent-transportation-system/README.md) | 交通行业垂直领域兴趣小组，聚焦交通大数据分析、交通网络优化计算和交通大模型智能决策等场景，推进交通行业算子库、工具链和示例应用在 CANN 生态中的建设与落地。       |
+| [local-ai](./local-ai/README.md) | 基于CANN在Kirin、昇腾等端、边芯片上，提供轻量、低延迟、低内存占用的LLM、VLM等大模型推理能力，含大模型转换工具与端到端推理引擎。 |
 | [manufacturing](./manufacturing/README.md) | 面向制造业垂直领域的特别兴趣小组，覆盖工业软件、工业视觉等核心场景，聚焦制造业领域常用的三维视觉算法和智能制造解决方案领域的计算需求。 |
 | [material-chemical-engineering](./material-chemical-engineering/README.md) | 面向材料化学、流程工业的垂直领域算子库，聚焦计算仿真、预测两大核心场景，填补通用算子库与工业落地之间的“最后一公里”。                            |
 | [multimodal-ai](./multimodal-ai/README.md) | 面向多模态AI场景，以算子开发为基础、典型模型重构为验证、评测工具链与基准数据为反馈牵引，三位一体协同形成多模态计算能力的建设闭环。 |
