@@ -102,7 +102,7 @@ SIG 内部决策遵循"共识优先"原则。对于重要技术决策，应通�
 - 评审会议形成会议纪要，记录技术指导委员会的审批意见。该会议纪要是后续创建 SIG 的必要凭证。
 
 #### 3.1.4 创建 SIG 组
-技术指导委员会审批通过后，SIG 发起人需在 `CANN/community` 仓库中`CANN/sigs`目录创建对应 SIG 目录，然后完成 SIG 相关介绍填写（README.md）、SIG引导入口（`CANN/sigs/README.md`）补充以及SIG相关权限配置，具体操作详见 [CANN 社区组织管理](../contributor/organization.md/#权限配置)。
+技术指导委员会审批通过后，SIG 发起人需在 `CANN/community` 仓库中`CANN/sigs`目录创建对应 SIG 目录，然后完成 SIG 相关介绍填写（README.md）、SIG引导入口（`CANN/sigs/README.md`）补充以及SIG相关权限配置，具体操作详见 [CANN 社区组织管理](../contributor/organization.md#权限配置)。
 
 ### 3.2 日常运作
 
@@ -152,3 +152,4 @@ CANN 项目从开源建仓到孵化成熟并进入主干，需经历以下阶段
    - 预审通过后，向项目管理委员会提交[议题申请](https://etherpad-cann.meeting.osinfra.cn/p/PMC)
    - 结合 QA SIG 评审意见更新测试报告
    - 参加项目管理委员会会议进行仓库准出终审
+
