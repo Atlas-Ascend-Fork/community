@@ -45,6 +45,12 @@ repositories:
     - docs/en/user_guide/env-vars
     committers:
     - gitcode_id: lwx1255555
+    - gitcode_id: zhuliangying
+    - gitcode_id: newstarzj
+    - gitcode_id: jinyingqi
+    - gitcode_id: yuanjiang_
+
+
 - repo:
   - cann/npu-simulator
   committers:
