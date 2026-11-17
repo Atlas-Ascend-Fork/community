@@ -18,6 +18,12 @@ sigs:
       - gitcode_id: rxtfeng
         name: 冯彤
         email: fengtong5@huawei.com
+      - gitcode_id: songkai111
+        name: 宋恺
+        email: songkai16@huawei.com
+      - gitcode_id: clinglai0517
+        name: 赖长铃
+        email: laichangling@huawei.com
   - sig_name: ops-nn
     maintainers:
       - gitcode_id: tangweiwei2
