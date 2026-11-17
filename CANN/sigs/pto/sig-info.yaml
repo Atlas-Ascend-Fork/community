@@ -301,6 +301,7 @@ repositories:
     - gitcode_id: bluesky901
     - gitcode_id: zhezhou
     - gitcode_id: zhangjian_hz11
+    - gitcode_id: liuxianzhe
     - gitcode_id: echo_stone
     - gitcode_id: kerwinair
   entry_configs:
@@ -310,6 +311,7 @@ repositories:
         - gitcode_id: SherwinBai
         - gitcode_id: zhoubotcam
         - gitcode_id: zhangjian_hz11
+        - gitcode_id: liuxianzhe
         - gitcode_id: shengxinchen
         - gitcode_id: echo_stone
         - gitcode_id: kerwinair
