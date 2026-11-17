@@ -83,6 +83,7 @@ repositories:
     - gitcode_id: keloJW
     - gitcode_id: zutao
     - gitcode_id: fuyangchenghu
+    - gitcode_id: guomin36
 - repo:
     - cann/cann-outreach
   committers:

@@ -107,6 +107,7 @@ Committer列表：
 - 刘佳玮（南京大学）[@keloJW](https://gitcode.com/keloJW),*jwliu@nju.edu.cn*
 - 万祖涛[@zutao](https://gitcode.com/zutao),*wanzutao1@h-partners.com*
 - 洑阳成虎[@fuyangchenghu](https://gitcode.com/fuyangchenghu),*fuyangchenghu2@h-partners.com*
+- 郭敏[@guomin36](https://gitcode.com/guomin36),*guomin36@huawei.com*
 
 ### cann-outreach
 
