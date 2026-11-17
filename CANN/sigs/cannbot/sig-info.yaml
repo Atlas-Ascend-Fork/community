@@ -60,6 +60,7 @@ repositories:
     committers:
     - gitcode_id: jia0liang
     - gitcode_id: DaiHuina1
+    - gitcode_id: dengguojie
   - path:
     - ops/ops-mssanitizer
     committers:
