@@ -93,59 +93,237 @@ repositories:
     - gitcode_id: zzzzzzyf_
     - gitcode_id: xtqh
 
-  - path:
+  - path: # attention/common/op_host 公共
     - "attention/common/op_host/fia_tiling_base.h"
     - "attention/common/op_host/fia_tiling_shape.cpp"
     - "attention/common/op_host/fia_tiling_shape.h"
     - "attention/common/op_host/fia_tiling_templates_registry.h"
-    - "attention/common/op_kernel/const_def.h"
-    - "attention/common/op_kernel/buffer_manager.h"
-    - "attention/common/op_kernel/buffer_mix_core.h"
-    - "attention/common/op_kernel/buffer.h"
-    - "attention/common/op_kernel/buffers_policy.h"
-    - "attention/common/op_kernel/matmul.h"
-    - "attention/common/op_host/split_core_v2.cpp"
-    - "attention/common/op_host/split_core_v2.h"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: shen_weiling
+    - gitcode_id: shasha_an
+  - path: # attention/common/op_host arch22
+    - "attention/common/op_host/fia_tiling_schedule_recorder.h"
     - "attention/common/op_host/split_core.cpp"
     - "attention/common/op_host/split_core.h"
+    committers:
+    - gitcode_id: monologue815
+    - gitcode_id: L_Euler
+    - gitcode_id: shasha_an
+  - path: # attention/common/op_host arch35
+    - "attention/common/op_host/split_core_v2.cpp"
+    - "attention/common/op_host/split_core_v2.h"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: shen_weiling
+    - gitcode_id: shasha_an
+  - path: # attention/common/op_kernel 公共
+    - "attention/common/op_kernel/const_def.h"
+    - "attention/common/op_kernel/arch_info.h"
+    - "attention/common/op_kernel/array.h"
+    - "attention/common/op_kernel/axis.h"
+    committers:
+    - gitcode_id: monologue815
+    - gitcode_id: jiang-lirui
+    - gitcode_id: L_Euler
+    - gitcode_id: xtqh
+  - path: # attention/common/op_kernel memcopy
+    - "attention/common/op_kernel/memcopy"
+    - "attention/common/op_kernel/CopyInL1.h"
+    - "attention/common/op_kernel/FixpipeOut.h"
+    - "attention/common/op_kernel/offset_calculator.h"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: shen_weiling
+    - gitcode_id: lining_210
+  - path: # attention/common/op_kernel matmul&buffer_manager
+    - "attention/common/op_kernel/attn_buffer.h"
+    - "attention/common/op_kernel/attn_buffer_manager.h"
+    - "attention/common/op_kernel/buffer_mix_core.h"
+    - "attention/common/op_kernel/buffers_policy.h"
+    - "attention/common/op_kernel/matmul.h"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: xtqh
+  - path: # attention/common/op_kernel load_balance
     - "attention/common/op_kernel/load_balance"
     - "attention/common/op_kernel/aicpu_common.h"
     committers:
-    - gitcode_id: liudan12
-    - gitcode_id: Allan_Yu
-    - gitcode_id: monologue815
-    - gitcode_id: mabing1118
     - gitcode_id: jiang-lirui
-    - gitcode_id: zzy__
-    - gitcode_id: haijie_699874
     - gitcode_id: shasha_an
-
-  - path:
-    - "attention/common/op_kernel/memcopy"
-    - "attention/common/op_kernel/memory_copy.h"
-    - "attention/common/op_kernel/memory_copy_arch35.h"
-    - "attention/common/op_kernel/offset_calculator.h"
-    - "attention/common/op_kernel/CopyInL1.h"
-    - "attention/common/op_kernel/FixpipeOut.h"
+  - path: # attention/common/op_kernel vector&vf
+    - "attention/common/op_kernel/*/vf"
+    - "attention/common/op_kernel/vector_common.h"
     committers:
-    - gitcode_id: liudan12
-    - gitcode_id: Allan_Yu
+    - gitcode_id: jiang-lirui
+    - gitcode_id: wangzhe123456789
+    - gitcode_id: songjionghui
+  - path: # attention/common/op_kernel feature
+    - "attention/common/op_kernel/init_output.h"
+    - "attention/common/op_kernel/attn_sink_gs1.h"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: xtqh
+    - gitcode_id: shasha_an
+    - gitcode_id: shen_weiling
+  - path: # attention/common/op_kernel arch22
+    - "attention/common/op_kernel/arch22"
+    committers:
     - gitcode_id: monologue815
-    - gitcode_id: mabing1118
+    - gitcode_id: L_Euler
+    - gitcode_id: xuanyuandy
+  - path: # attention/common/op_kernel 非arch22
+    - "attention/common/op_kernel/arch35"
+    - "attention/common/op_kernel/arch38"
+    - "attention/common/op_kernel/arch92"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: xtqh
+    - gitcode_id: wangzhe123456789
+    - gitcode_id: songjionghui
+    - gitcode_id: shasha_an
+    - gitcode_id: shen_weiling
+    - gitcode_id: lining_210
+    - gitcode_id: tang-hao-hw-gitcode
+    - gitcode_id: yang-binrong
+  - path: # attention/common/
+    - "attention/common"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: xtqh
+    - gitcode_id: wangzhe123456789
+    - gitcode_id: songjionghui
+    - gitcode_id: shasha_an
+    - gitcode_id: shen_weiling
+    - gitcode_id: lining_210
+    - gitcode_id: tang-hao-hw-gitcode
+    - gitcode_id: yang-binrong
+    - gitcode_id: monologue815
+    - gitcode_id: L_Euler
+    - gitcode_id: xuanyuandy
+
+  - path: # 稠密FA非量化
+    - "attention/flash_attn"
+    - "attention/flash_attn_metadata"
+    - "attention/flash_mla"
+    - "attention/flash_mla_metadata"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: xtqh
+
+  - path: # 稠密FA全量化
+    - "attention/quant_flash_attn"
+    - "attention/quant_flash_attn_metadata"
+    - "attention/quant_flash_mla"
+    - "attention/quant_flash_mla_metadata"
+    committers:
     - gitcode_id: jiang-lirui
     - gitcode_id: shen_weiling
     - gitcode_id: lining_210
 
-  - path:
-    - "attention/common/op_kernel/vector_common.h"
+  - path: # 稀疏FA arch22
+    - "attention/sparse_flash_attention/*/arch22"
+    - "attention/kv_quant_sparse_flash_attention/*/arch22"
+    - "attention/sparse_flash_mla/*/arch22"
+    - "attention/mixed_quant_sparse_flash_mla/*/arch22"
     committers:
-    - gitcode_id: liudan12
-    - gitcode_id: Allan_Yu
     - gitcode_id: monologue815
-    - gitcode_id: mabing1118
+    - gitcode_id: cc-z
+    - gitcode_id: zzzzzzyf_
+  - path: # 稀疏FA
+    - "attention/sparse_flash_attention"
+    - "attention/kv_quant_sparse_flash_attention"
+    - "attention/kv_quant_sparse_flash_attention_v2"
+    - "attention/sparse_flash_mla"
+    - "attention/sparse_flash_mla_metadata"
+    - "attention/mixed_quant_sparse_flash_mla"
+    - "attention/mixed_quant_sparse_flash_mla_metadata"
+    - "attention/quant_sparse_flash_mla"
+    - "attention/quant_sparse_flash_mla_metadata"
+    committers:
     - gitcode_id: jiang-lirui
-    - gitcode_id: songjionghui
     - gitcode_id: wangzhe123456789
+    - gitcode_id: songjionghui
+
+  - path: # LI arch22
+    - "attention/lightning_indexer/*/arch22"
+    - "attention/lightning_indexer_v2/*/arch22"
+    - "attention/quant_lightning_indexer/*/arch22"
+    - "attention/quant_lightning_indexer_v2/*/arch22"
+    committers:
+    - gitcode_id: monologue815
+    - gitcode_id: guijianwei
+    - gitcode_id: yu-xinjie62
+  - path: # LI
+    - "attention/lightning_indexer"
+    - "attention/lightning_indexer_v2"
+    - "attention/lightning_indexer_v2_metadata"
+    - "attention/quant_lightning_indexer"
+    - "attention/quant_lightning_indexer_v2"
+    - "attention/quant_lightning_indexer_v2_metadata"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: wangzhe123456789
+    - gitcode_id: songjionghui
+
+  - path: # SLI arch22
+    - "attention/sparse_lightning_indexer/*/arch22"
+    - "attention/quant_sparse_lightning_indexer/*/arch22"
+    committers:
+    - gitcode_id: monologue815
+    - gitcode_id: guijianwei
+    - gitcode_id: yu-xinjie62
+  - path: # SLI
+    - "attention/sparse_lightning_indexer"
+    - "attention/quant_sparse_lightning_indexer"
+    - "attention/quant_sparse_lightning_indexer_metadata"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: wangzhe123456789
+    - gitcode_id: songjionghui
+
+  - path: # 稠密FA伪量化
+    - "attention/mixed_quant_flash_attn"
+    - "attention/mixed_quant_flash_attn_metadata"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: shasha_an
+
+  - path: # liner attention, GDN
+    - "attention/recurrent_gated_delta_rule"
+    - "attention/chunk_gated_delta_rule"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: xtqh
+
+  - path: # liner attention, KDA
+    - "attention/flash_kda_grad"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: tang-hao-hw-gitcode
+    - gitcode_id: yang-binrong
+
+  - path: # compressor arch22
+    - "attention/compressor/*/arch22"
+    committers:
+    - gitcode_id: monologue815
+    - gitcode_id: xuchengyang
+    - gitcode_id: guijianwei
+  - path: # compressor
+    - "attention/compressor"
+    - "attention/compressor_grad"
+    - "attention/quant_compressor"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: shasha_an
+    
+  - path: # mla_prolog
+    - "attention/mla_prolog"
+    - "attention/mla_prolog_v2"
+    - "attention/mla_prolog_v3"
+    committers:
+    - gitcode_id: jiang-lirui
+    - gitcode_id: shasha_an
 
   - path:
     - attention
