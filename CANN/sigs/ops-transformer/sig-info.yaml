@@ -15,6 +15,8 @@ repositories:
   - path:
     - "*/*/op_host/op_api/aclnn*.h"
     - "*/*/op_host/*_def.cpp"
+    - "*/*/op_dsl/aclnn*.py"
+    - "experimental/*/*/op_dsl/aclnn*.py"
     - "*/*/op_api/aclnn*.h"
     - "*/*/op_graph/*_proto.h"
     - "*/*/op_graph/*_proto_extend.h"
