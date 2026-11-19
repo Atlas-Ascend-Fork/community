@@ -13,6 +13,7 @@ repositories:
   - gitcode_id: kpxing
   - gitcode_id: loov1
   - gitcode_id: QK_25415
+  - gitcode_id: vallenChen
   entry_configs:
   - path:
     - include
@@ -21,6 +22,7 @@ repositories:
     - gitcode_id: nino888
     - gitcode_id: QK_25415
     - gitcode_id: goodpeople233
+    - gitcode_id: vallenChen
   - path:
     - src
     committers:
@@ -29,6 +31,7 @@ repositories:
     - gitcode_id: ztj0209
     - gitcode_id: monologue815
     - gitcode_id: kpxing
+    - gitcode_id: vallenChen
 - repo:
   - cann/ascend-boost-comm
   committers:
