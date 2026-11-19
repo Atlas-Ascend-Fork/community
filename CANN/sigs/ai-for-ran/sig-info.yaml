@@ -26,4 +26,6 @@ committers:
   name: 王宁
   email: ning22668800@gmail.com
 
-repositories: []
+repositories:
+  - repo:
+    - cann/ai-for-ran

@@ -23,9 +23,9 @@ AI for RAN SIG（`ai-for-ran`）是 CANN 社区面向 6G 无线接入网（RAN�
 
 ## 职责与范围
 
-AI for RAN SIG 规划建设统一代码仓 `ai-for-ran`，仓内按研究方向组织子目录。
+AI for RAN SIG 的统一代码仓已创建，仓内计划按研究方向组织子目录。
 
-### 规划代码仓
+### 规划目录结构
 
 
 | 子目录                                  | 职责范围                |
@@ -37,8 +37,6 @@ AI for RAN SIG 规划建设统一代码仓 `ai-for-ran`，仓内按研究方向�
 | `intelligent-localization/`          | 跨场景智能定位             |
 | `docs/`                              | 环境配置、运行说明、技术原理与 FAQ |
 
-
-上述统一代码仓尚在建设阶段，仓库创建完成后将在本页面补充正式地址。
 
 ## 协作边界
 
@@ -66,7 +64,7 @@ AI for RAN SIG 规划建设统一代码仓 `ai-for-ran`，仓内按研究方向�
 
 ## 仓库清单
 
-- 规划统一代码仓：`ai-for-ran`（尚未创建，创建后补充正式地址）
+- 统一代码仓：[ai-for-ran](https://gitcode.com/cann/ai-for-ran)。
 
 ## 社区运作
 
