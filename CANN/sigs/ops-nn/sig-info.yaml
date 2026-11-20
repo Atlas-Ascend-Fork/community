@@ -213,6 +213,9 @@ repositories:
     - gitcode_id: u010470851
       name: 上官秦南
       email: shangguanqinnan@huawei.com
+    - gitcode_id: ztj0209
+      name: 张天娇
+      email: zhangtianjiao6@huawei.com
   - path:
     - control
     committers:
@@ -300,6 +303,9 @@ repositories:
     - gitcode_id: east_yang
       name: 杨东
       email: yangdong48@huawei.com
+    - gitcode_id: ztj0209
+      name: 张天娇
+      email: zhangtianjiao6@huawei.com
   - path:
     - rnn
     - pooling
@@ -334,6 +340,9 @@ repositories:
     - gitcode_id: Nice_try
       name: 张志伟
       email: zhangzhiwei108@huawei.com
+    - gitcode_id: ztj0209
+      name: 张天娇
+      email: zhangtianjiao6@huawei.com
   - path:
     - matmul
     committers:
@@ -382,6 +391,9 @@ repositories:
     - gitcode_id: smdbha
       name: 潘志杰
       email: panzhijie2@huawei.com
+    - gitcode_id: ztj0209
+      name: 张天娇
+      email: zhangtianjiao6@huawei.com
   - path:
     - conv
     committers:

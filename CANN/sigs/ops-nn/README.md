@@ -94,6 +94,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 张志伟[@Nice_try](https://gitcode.com/Nice_try), *zhangzhiwei108@huawei.com*
 - 王瑞[@wangrui_](https://gitcode.com/wangrui_), *wangrui124@huawei.com*
 - 潘志杰[@smdbha](https://gitcode.com/smdbha), *panzhijie2@huawei.com*
+- 张天娇[@ztj0209](https://gitcode.com/ztj0209), *zhangtianjiao6@huawei.com*
 
 ### 细分领域：
 ### foreach、activation、norm committer列表：
@@ -125,6 +126,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 钱泽洪[@qianzehong](https://gitcode.com/qianzehong), *qianzehong@huawei.com*
 - 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 - 上官秦南[@u010470851](https://gitcode.com/u010470851), *shangguanqinnan@huawei.com*
+- 张天娇[@ztj0209](https://gitcode.com/ztj0209), *zhangtianjiao6@huawei.com*
 
 ### control committer列表：
 - 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
@@ -152,6 +154,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 - 上官秦南[@u010470851](https://gitcode.com/u010470851), *shangguanqinnan@huawei.com*
 - 杨东[@east_yang](https://gitcode.com/east_yang), *yangdong48@huawei.com*
+- 张天娇[@ztj0209](https://gitcode.com/ztj0209), *zhangtianjiao6@huawei.com*
 
 ### rnn、pooling committer列表：
 - 刘闯[@liuchuangdev](https://gitcode.com/liuchuangdev), *liuchuang51@huawei.com*
@@ -164,6 +167,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 - 上官秦南[@u010470851](https://gitcode.com/u010470851), *shangguanqinnan@huawei.com*
 - 张志伟[@Nice_try](https://gitcode.com/Nice_try), *zhangzhiwei108@huawei.com*
+- 张天娇[@ztj0209](https://gitcode.com/ztj0209), *zhangtianjiao6@huawei.com*
 
 ### matmul committer列表：
 - 范其瑞[@fanqirui](https://gitcode.com/fanqirui), *fanqirui1@huawei.com*
@@ -179,6 +183,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 陈律丞[@oscillated](https://gitcode.com/oscillated), *chenlyucheng@huawei.com*
 - 鲍超俊[@void_ptr](https://gitcode.com/void_ptr), *baochaojun@huawei.com*
 - 潘志杰[@smdbha](https://gitcode.com/smdbha), *panzhijie2@huawei.com*
+- 张天娇[@ztj0209](https://gitcode.com/ztj0209), *zhangtianjiao6@huawei.com*
 
 ### conv committer列表：
 - 郑李磊[@lileizheng](https://gitcode.com/lileizheng), *zhenglilei@huawei.com*
