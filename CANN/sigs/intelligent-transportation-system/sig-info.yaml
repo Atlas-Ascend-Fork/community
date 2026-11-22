@@ -67,6 +67,9 @@ committers:
 - gitcode_id: garysh
   name: 王高伟
   email: wanggaowei@huawei.com
+- gitcode_id: m0_64799563
+  name: 罗玉平
+  email: yp_luo_py@163.com
 
 repositories:
 - repo:
@@ -87,6 +90,9 @@ repositories:
   - gitcode_id: yx_xlqy
     name: 辛云鹏
     email: yunpengxin@seu.edu.cn
+  - gitcode_id: m0_64799563
+    name: 罗玉平
+    email: yp_luo_py@163.com
   entry_configs: []
 
 - repo:
@@ -177,3 +183,7 @@ repositories:
   - gitcode_id: garysh
     name: 王高伟
     email: wanggaowei@huawei.com
+  - gitcode_id: m0_64799563
+    name: 罗玉平
+    email: yp_luo_py@163.com
+  entry_configs: []

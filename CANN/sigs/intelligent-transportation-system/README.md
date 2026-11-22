@@ -139,6 +139,7 @@ Pull Request 通常按以下流程处理：
 - 张宏刚 [@Zhang_Honggang](https://gitcode.com/Zhang_Honggang), *zhgang1994@163.com*
 - 辛云鹏 [@yx_xlqy](https://gitcode.com/yx_xlqy), *yunpengxin@seu.edu.cn*
 - 许心宇 [@XinyuXu](https://gitcode.com/XinyuXu), *xwilliam.xu@foxmail.com*
+- 罗玉平 [@m0_64799563](https://gitcode.com/m0_64799563), *yp_luo_py@163.com*
 
 #### its-stable-llm
 
@@ -174,6 +175,8 @@ Pull Request 通常按以下流程处理：
 - 姚建 [@fanby02](https://gitcode.com/fanby02), *yaojian7@huawei.com*
 - 常小青 [@changxiaoqing](https://gitcode.com/changxiaoqing), *changxiaoqing1@huawei.com*
 - 王高伟 [@garysh](https://gitcode.com/garysh), *wanggaowei@huawei.com*
+- 罗玉平 [@m0_64799563](https://gitcode.com/m0_64799563), *yp_luo_py@163.com*
+
 
 
 
