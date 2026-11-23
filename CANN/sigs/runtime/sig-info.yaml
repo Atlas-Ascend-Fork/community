@@ -15,6 +15,11 @@ repositories:
   entry_configs:
   - path:
     - docs
+    committers:
+    - gitcode_id: ycm0028
+    - gitcode_id: wangtao43
+    - gitcode_id: tingwood
+  - path:
     - include
     - pkg_inc
     - src/runtime/CMakeLists.txt
