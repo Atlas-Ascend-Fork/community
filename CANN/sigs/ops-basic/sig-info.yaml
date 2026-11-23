@@ -10,7 +10,6 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: llimwang
   - gitcode_id: rxtfeng
-  - gitcode_id: gubaocheng
   - gitcode_id: loov1
   - gitcode_id: jia0liang
   - gitcode_id: songkai111
@@ -29,7 +28,6 @@ repositories:
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: jia0liang
     - gitcode_id: songkai111
@@ -45,7 +43,6 @@ repositories:
     - gitcode_id: LiuXinxin23
     - gitcode_id: zhou-qilong
     - gitcode_id: rxtfeng
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: jia0liang
     - gitcode_id: songkai111
@@ -67,7 +64,6 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: llimwang
   - gitcode_id: rxtfeng
-  - gitcode_id: gubaocheng
   - gitcode_id: loov1
   - gitcode_id: liu-wei
   - gitcode_id: zhangzijie
@@ -105,7 +101,6 @@ repositories:
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
     - gitcode_id: rxtfeng
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: yue-ma
     - gitcode_id: yourealize
@@ -124,7 +119,6 @@ repositories:
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
     - gitcode_id: rxtfeng
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
     - gitcode_id: yue-ma
@@ -138,7 +132,6 @@ repositories:
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
     - gitcode_id: rxtfeng
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: yue-ma
     - gitcode_id: yourealize
@@ -161,7 +154,6 @@ repositories:
     - gitcode_id: zl_hw
     - gitcode_id: zhou-qilong
     - gitcode_id: rxtfeng
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
     - gitcode_id: pingchuantang
@@ -198,7 +190,6 @@ repositories:
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
     - gitcode_id: rxtfeng
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
     - gitcode_id: yue-ma
@@ -217,7 +208,6 @@ repositories:
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
     - gitcode_id: rxtfeng
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
     - gitcode_id: yue-ma
@@ -229,7 +219,6 @@ repositories:
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
     - gitcode_id: rxtfeng
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: liu-wei
     - gitcode_id: zhangzijie
@@ -260,7 +249,6 @@ repositories:
   - gitcode_id: zhou-qilong
   - gitcode_id: llimwang
   - gitcode_id: rxtfeng
-  - gitcode_id: gubaocheng
   - gitcode_id: loov1
   - gitcode_id: wangrui_
   - gitcode_id: songkai111
@@ -323,7 +311,6 @@ repositories:
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
@@ -392,7 +379,6 @@ repositories:
     - gitcode_id: wangrui_
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: songkai111
     - gitcode_id: zhangzijie
@@ -416,7 +402,6 @@ repositories:
     - gitcode_id: jia0liang
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: songkai111
     - gitcode_id: zhangzijie
@@ -460,7 +445,6 @@ repositories:
     - gitcode_id: su-yueming
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
@@ -566,7 +550,6 @@ repositories:
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
@@ -593,7 +576,6 @@ repositories:
     - gitcode_id: zhajianqing123
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
@@ -620,7 +602,6 @@ repositories:
     - gitcode_id: renruhai
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
@@ -642,7 +623,6 @@ repositories:
     - gitcode_id: wangrui_
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: songkai111
     - gitcode_id: zhangzijie
@@ -667,7 +647,6 @@ repositories:
     - gitcode_id: liu-wei
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
@@ -694,7 +673,6 @@ repositories:
     - gitcode_id: demoauguste
     - gitcode_id: zhou-qilong
     - gitcode_id: llimwang
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
@@ -717,7 +695,6 @@ repositories:
     - gitcode_id: zhangyuxiang0119
     - gitcode_id: llimwang
     - gitcode_id: zhou-qilong
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: wangrui_
     - gitcode_id: songkai111
@@ -756,7 +733,6 @@ repositories:
     - gitcode_id: renruhai
     - gitcode_id: liu-wei
     - gitcode_id: zhou-qilong
-    - gitcode_id: gubaocheng
     - gitcode_id: loov1
     - gitcode_id: fullt
     - gitcode_id: zhanw_coding
@@ -772,7 +748,6 @@ repositories:
   - cann/atvoss
   committers:
   - gitcode_id: zhou-qilong
-  - gitcode_id: gubaocheng
   - gitcode_id: loov1
   - gitcode_id: jia0liang
   - gitcode_id: wangrui_

@@ -33,7 +33,6 @@ ops-basic SIG是负责维护和开发深度学习框架中核心、基础算子(
 
 ### Maintainer列表
 - 周奇龙[@zhou-qilong](https://gitcode.com/zhou-qilong), *zhouqilong2@huawei.com*
-- 顾宝成[@gubaocheng](https://gitcode.com/gubaocheng), *gubaocheng@huawei.com*
 - 徐鲁威[@loov1](https://gitcode.com/loov1), *xuluwei@huawei.com*
 - 王林木[@llimwang](https://gitcode.com/llimwang), *wanglinmu@huawei.com*
 - 冯彤[@rxtfeng](https://gitcode.com/rxtfeng), *fengtong5@huawei.com*
