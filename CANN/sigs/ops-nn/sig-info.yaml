@@ -216,6 +216,9 @@ repositories:
     - gitcode_id: ztj0209
       name: 张天娇
       email: zhangtianjiao6@huawei.com
+    - gitcode_id: wym_666
+      name: 王玉梅
+      email: wangyumei11@huawei.com
   - path:
     - control
     committers:
@@ -430,6 +433,9 @@ repositories:
     - gitcode_id: Nice_try
       name: 张志伟
       email: zhangzhiwei108@huawei.com
+    - gitcode_id: wym_666
+      name: 王玉梅
+      email: wangyumei11@huawei.com
   - path:
     - experimental
     committers:

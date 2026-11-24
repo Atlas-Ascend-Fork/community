@@ -96,6 +96,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 潘志杰[@smdbha](https://gitcode.com/smdbha), *panzhijie2@huawei.com*
 - 张天娇[@ztj0209](https://gitcode.com/ztj0209), *zhangtianjiao6@huawei.com*
 - 陈煜宁[@yolic](https://gitcode.com/yolic), *chenyuning1@huawei.com*
+- 王玉梅[@wym_666](https://gitcode.com/wym_666), *wangyumei11@huawei.com*
 
 ### 细分领域：
 ### foreach、activation、norm committer列表：
@@ -128,6 +129,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 陈展熹[@yourealize](https://gitcode.com/yourealize), *chenzhanxi1@huawei.com*
 - 上官秦南[@u010470851](https://gitcode.com/u010470851), *shangguanqinnan@huawei.com*
 - 张天娇[@ztj0209](https://gitcode.com/ztj0209), *zhangtianjiao6@huawei.com*
+- 王玉梅[@wym_666](https://gitcode.com/wym_666), *wangyumei11@huawei.com*
 
 ### control committer列表：
 - 刘伟[@liu-wei](https://gitcode.com/liu-wei), *lovline.liuwei@huawei.com*
@@ -198,6 +200,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 林睿涵[@linruihan](https://gitcode.com/linruihan), *linruihan@huawei.com*
 - 陈兴宇[@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
 - 张志伟[@Nice_try](https://gitcode.com/Nice_try), *zhangzhiwei108@huawei.com*
+- 王玉梅[@wym_666](https://gitcode.com/wym_666), *wangyumei11@huawei.com*
 
 ### 资料 committer列表
 - 陈娇[@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
