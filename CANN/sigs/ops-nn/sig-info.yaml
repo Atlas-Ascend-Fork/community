@@ -346,6 +346,9 @@ repositories:
     - gitcode_id: ztj0209
       name: 张天娇
       email: zhangtianjiao6@huawei.com
+    - gitcode_id: cjz_
+      name: 陈俊卓
+      email: chenjunzhuo@huawei.com
   - path:
     - matmul
     committers:
