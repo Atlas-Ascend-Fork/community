@@ -34,7 +34,15 @@ repositories:
     - gitcode_id: jinyingqi
     - gitcode_id: newstarzj
   - path:
-    - "communication/hccl-*"
+    - communication/hccl-aicpu-best-practice
+    - communication/hccl-aicpu-debug
+    - communication/hccl-aicpu-design
+    - communication/hccl-aicpu-perf-optimize
+    - communication/hccl-aicpu-whitebox-design
+    - communication/hccl-ccu-best-practice
+    - communication/hccl-env-check
+    - communication/hccl-env-setup
+    - communication/hccl-test-tool-hvm
     committers:
     - gitcode_id: cann_wangyq
   - path:
@@ -44,7 +52,15 @@ repositories:
     - gitcode_id: jon_jin
   - path:
     - plugins-community/catlass-dsl-generator
-    - "ops/catlass-*"
+    - ops/catlass-cpp-design
+    - ops/catlass-cpp-develop
+    - ops/catlass-cpp-interface
+    - ops/catlass-cpp-knowledge
+    - ops/catlass-cpp-reference
+    - ops/catlass-cpp-test
+    - ops/catlass-op-design
+    - ops/catlass-op-develop
+    - ops/catlass-op-perf-tune
     committers:
     - gitcode_id: longjihui
     - gitcode_id: DaiHuina1
@@ -89,7 +105,10 @@ repositories:
     - gitcode_id: guankarl
     - gitcode_id: jia0liang
   - path:
-    - "infra/docs-*"
+    - infra/docs-branch-update
+    - infra/docs-common-review
+    - infra/docs-diagram-draw
+    - infra/docs-translation
     - ops/ascendc-api-docs-gen
     - ops/ascendc-api-docs-review
     - ops/ascendc-docs-gen
