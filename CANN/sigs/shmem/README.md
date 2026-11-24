@@ -26,12 +26,12 @@ shmem SIG 致力于面向昇腾AI集群的分布式共享内存编程库的设�
 - 王胜[@victor7wang](https://gitcode.com/victor7wang), *wangsheng325@huawei.com*
 - 李绍勋[@lishaoxun](https://gitcode.com/lishaoxun), *lishaoxun1@huawei.com*
 - 文敏[@gcw_hhwuOOa5](https://gitcode.com/gcw_hhwuOOa5), *wenmin@huawei.com*
-- 秦名扬[@qin437231](https://gitcode.com/qin437231), *qinmingyang@huawei.com*
 - 叶珍妮[@YeZZzzz1](https://gitcode.com/YeZZzzz1), *yezhenni1@huawei.com*
 - 姜新誉[@jiangxinyu3](https://gitcode.com/jiangxinyu3), *jiangxinyu3@hisilicon.com*
 - 刘建星[@james88liu](https://gitcode.com/james88liu), *liujianxing1@huawei.com*
 - 李宏波[@hyolee](https://gitcode.com/hyolee), *lihongbo14@huawei.com*
 - 曹冰洁[@vector5](https://gitcode.com/vector5), *caobingjie@huawei.com*
+- 张耘齐[@zhangyunqi](https://gitcode.com/zhangyunqi), *zhangyunqi5@huawei.com*
 
 # 社区运作
 

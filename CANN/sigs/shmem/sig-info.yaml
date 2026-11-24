@@ -10,7 +10,6 @@ repositories:
   - cann/shmem
   committers:
   - gitcode_id: mlidongfeng
-  - gitcode_id: minibao
   - gitcode_id: Joyce_An
   - gitcode_id: shi_nanxiang
   - gitcode_id: nino888
@@ -20,18 +19,17 @@ repositories:
   - gitcode_id: victor7wang
   - gitcode_id: lishaoxun
   - gitcode_id: gcw_hhwuOOa5
-  - gitcode_id: qin437231
   - gitcode_id: YeZZzzz1
   - gitcode_id: jiangxinyu3
   - gitcode_id: james88liu
   - gitcode_id: hyolee
   - gitcode_id: vector5
+  - gitcode_id: zhangyunqi
   entry_configs:
   - path:
     - include
     committers:
     - gitcode_id: mlidongfeng
-    - gitcode_id: minibao
     - gitcode_id: Joyce_An
     - gitcode_id: shi_nanxiang
     - gitcode_id: nino888
@@ -41,10 +39,10 @@ repositories:
     committers:
     - gitcode_id: nino888
     - gitcode_id: zhu-wangyi
-    - gitcode_id: qin437231
     - gitcode_id: oioring
     - gitcode_id: victor7wang
     - gitcode_id: YeZZzzz1
+    - gitcode_id: zhangyunqi
   - path:
     - src/device/gm2gm
     committers:
@@ -53,7 +51,6 @@ repositories:
     - gitcode_id: Joyce_An
     - gitcode_id: suqwe
     - gitcode_id: zhu-wangyi
-    - gitcode_id: qin437231
     - gitcode_id: oioring
     - gitcode_id: victor7wang
     - gitcode_id: YeZZzzz1
@@ -64,7 +61,6 @@ repositories:
     - src/host/init
     committers:
     - gitcode_id: nino888
-    - gitcode_id: minibao
     - gitcode_id: suqwe
     - gitcode_id: zhu-wangyi
     - gitcode_id: oioring
@@ -72,6 +68,7 @@ repositories:
     - gitcode_id: YeZZzzz1
     - gitcode_id: jiangxinyu3
     - gitcode_id: vector5
+    - gitcode_id: zhangyunqi
   - path:
     - src/host/team
     - src/device/team
@@ -81,11 +78,11 @@ repositories:
     - gitcode_id: zhu-wangyi
     - gitcode_id: oioring
     - gitcode_id: YeZZzzz1
+    - gitcode_id: zhangyunqi
   - path:
     - src/host/mem
     - src/host/entity
     committers:
-    - gitcode_id: minibao
     - gitcode_id: mlidongfeng
     - gitcode_id: nino888
     - gitcode_id: victor7wang
@@ -96,6 +93,7 @@ repositories:
     - gitcode_id: lishaoxun
     - gitcode_id: james88liu
     - gitcode_id: hyolee
+    - gitcode_id: zhangyunqi
   - path:
     - src/host/transport
     - src/host/bootstrap
@@ -109,18 +107,19 @@ repositories:
     - gitcode_id: Joyce_An
     - gitcode_id: gcw_hhwuOOa5  
     - gitcode_id: vector5
+    - gitcode_id: zhangyunqi
   - path:
     - src/host/data_plane
     - src/host/sync
     committers:
     - gitcode_id: nino888
     - gitcode_id: zhu-wangyi
-    - gitcode_id: qin437231
     - gitcode_id: oioring
     - gitcode_id: victor7wang
     - gitcode_id: YeZZzzz1
     - gitcode_id: gcw_hhwuOOa5
-    - gitcode_id: jiangxinyu3  
+    - gitcode_id: jiangxinyu3
+    - gitcode_id: zhangyunqi
   - path:
     - src/host/utils
     - src/host/python_wrapper
@@ -128,7 +127,6 @@ repositories:
     - src/python
     committers:
     - gitcode_id: zhu-wangyi
-    - gitcode_id: qin437231
     - gitcode_id: oioring
     - gitcode_id: victor7wang
     - gitcode_id: YeZZzzz1
@@ -136,13 +134,13 @@ repositories:
     - gitcode_id: nino888
     - gitcode_id: jiangxinyu3
     - gitcode_id: Joyce_An
+    - gitcode_id: zhangyunqi
   - path:
     - docs
     - examples
     - scripts
     committers:
     - gitcode_id: mlidongfeng
-    - gitcode_id: minibao
     - gitcode_id: Joyce_An
     - gitcode_id: shi_nanxiang
     - gitcode_id: nino888
@@ -152,7 +150,7 @@ repositories:
     - gitcode_id: victor7wang
     - gitcode_id: lishaoxun
     - gitcode_id: gcw_hhwuOOa5
-    - gitcode_id: qin437231
     - gitcode_id: YeZZzzz1
     - gitcode_id: jiangxinyu3
     - gitcode_id: vector5
+    - gitcode_id: zhangyunqi
