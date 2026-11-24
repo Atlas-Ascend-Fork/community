@@ -97,6 +97,33 @@ repositories:
     committers:
     - gitcode_id: gitcode-chenjiao
     - gitcode_id: ai_xin
+  - path:
+    - docs/changelog.d
+    committers:
+    - gitcode_id: benwallace52
+    - gitcode_id: hanrui22
+    - gitcode_id: dengguojie
+    - gitcode_id: rxtfeng
+    - gitcode_id: wangzheng97
+    - gitcode_id: pingchuantang
+    - gitcode_id: xutianze
+    - gitcode_id: zihengwang2
+    - gitcode_id: hedi0515
+    - gitcode_id: w00934874
+    - gitcode_id: junming222
+    - gitcode_id: jon_jin
+    - gitcode_id: jinyingqi
+    - gitcode_id: newstarzj
+    - gitcode_id: cann_wangyq
+    - gitcode_id: xchang1121
+    - gitcode_id: longjihui
+    - gitcode_id: DaiHuina1
+    - gitcode_id: jia0liang
+    - gitcode_id: ddddwe
+    - gitcode_id: dai-zhentao
+    - gitcode_id: guankarl
+    - gitcode_id: gitcode-chenjiao
+    - gitcode_id: ai_xin
 - repo:
   - cann/cann-bench
   committers:
@@ -188,6 +215,32 @@ repositories:
     committers:
     - gitcode_id: gcw_P2Mh5H1S
     - gitcode_id: jon_jin
+  - path:
+    - docs/changelog.d
+    committers:
+    - gitcode_id: songkai111
+    - gitcode_id: qq_37913898
+    - gitcode_id: benwallace52
+    - gitcode_id: hanrui22
+    - gitcode_id: dengguojie
+    - gitcode_id: rxtfeng
+    - gitcode_id: wangzheng97
+    - gitcode_id: pingchuantang
+    - gitcode_id: xutianze
+    - gitcode_id: zihengwang2
+    - gitcode_id: hedi0515
+    - gitcode_id: w00934874
+    - gitcode_id: junming222
+    - gitcode_id: jon_jin
+    - gitcode_id: zhou-qilong
+    - gitcode_id: zhangzijie
+    - gitcode_id: midwinter1993
+    - gitcode_id: chenxingyu18
+    - gitcode_id: longjihui
+    - gitcode_id: DaiHuina1
+    - gitcode_id: cann_wangyq
+    - gitcode_id: ddddwe
+    - gitcode_id: gcw_P2Mh5H1S
 - repo:
   - cann/cannbot-knowledge
   committers:
