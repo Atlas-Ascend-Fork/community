@@ -42,7 +42,7 @@
    	<td><a href="https://gitcode.com/cann/ge"><span style="font-size:16px;">ge</span></a><br>
       <a href="https://gitcode.com/cann/metadef"><span style="font-size:16px;">metadef</span></a><br>
       <a href="https://gitcode.com/cann/graph-autofusion"><span style="font-size:16px;">graph-autofusion</span></a><br>
-       <a href=" https://gitcode.com/cann/triton-inference-server-ge-backend"><span style="font-size:16px;">triton-inference-server-ge-backend</span></a>
+       <a href="https://gitcode.com/cann/triton-inference-server-ge-backend"><span style="font-size:16px;">triton-inference-server-ge-backend</span></a>
        </td>
   </tr>
   <tr>
@@ -134,7 +134,7 @@ CANN 社区采用分层协作的治理模式，当前架构主要包括以下组
 
   |<center><a href="https://space.bilibili.com/1190614918?spm_id_from=333.337.0.0">B站</a></center> | <center>微信公众号</center> | <center><a href="https://www.zhihu.com/people/ha-ha-ha-ha-51-33-24">知乎</a></center> |<center><a href="https://blog.csdn.net/m0_71340392">CSDN</a></center>|
   |--|--|--|--|
-  | <img src="images/bilibili.png" width="130" height="130" alt="cann_bilibili">  | <img src="images/weixin.jpg" width="130" height="130" alt="CANN微信公众号">| <img src="images/zhihu.png" width="130" height="130" alt="昇腾CANN知乎"></a> | <img src="images/CSDN.png" width="130" height="130" alt="昇腾CANN_CSDN"> |
+  | <img src="images/bilibili.png" width="130" height="130" alt="cann_bilibili">  | <img src="images/weixin.jpg" width="130" height="130" alt="CANN微信公众号">| <img src="images/zhihu.png" width="130" height="130" alt="昇腾CANN知乎"> | <img src="images/CSDN.png" width="130" height="130" alt="昇腾CANN_CSDN"> |
 
 - [cann@cann.team](mailto:cann@cann.team)
 
