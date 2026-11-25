@@ -41,6 +41,7 @@ ops-nn SIG是神经网络相关算子研发兴趣小组，负责如矩阵乘、�
 - 刘波[@liubo75](https://gitcode.com/liubo75), *liubo75@huawei.com*
 - 胡碧霞[@crystalhu](https://gitcode.com/crystalhu), *hubixia1@huawei.com*
 - 唐超[@chaotang233](https://gitcode.com/chaotang233), *tangchao47@hisilicon.com*
+- 杨阳[@yangyang016](https://gitcode.com/yangyang016), *yangyang306@hisilicon.com*
 
 ### Committer列表
 - 范其瑞[@fanqirui](https://gitcode.com/fanqirui), *fanqirui1@huawei.com*
