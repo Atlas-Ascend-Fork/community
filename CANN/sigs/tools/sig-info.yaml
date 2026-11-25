@@ -23,6 +23,8 @@ repositories:
   entry_configs:
   - path:
     - src/hccl_test
+    - docs/zh/user_guide/hccl_test
+    - docs/en/user_guide/hccl_test
     committers:
     - gitcode_id: ccl_ligang
     - gitcode_id: temper7620
@@ -31,13 +33,9 @@ repositories:
     - gitcode_id: ouyangxizi
     - gitcode_id: lilianlin_hw
     - gitcode_id: lilin_137
-  - path:
-    - docs/zh/user_guide/hccl_test
-    - docs/en/user_guide/hccl_test
-    committers:
+    - gitcode_id: hulk1997
+    - gitcode_id: Flashfuture
     - gitcode_id: flyswa
-    - gitcode_id: claire8090
-    - gitcode_id: yanyefeng
   - path:
     - docs/zh/user_guide/profiling
     - docs/zh/user_guide/env-vars
@@ -49,7 +47,6 @@ repositories:
     - gitcode_id: newstarzj
     - gitcode_id: jinyingqi
     - gitcode_id: yuanjiang_
-
 
 - repo:
   - cann/npu-simulator
