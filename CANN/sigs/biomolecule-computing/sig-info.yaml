@@ -49,4 +49,10 @@ repositories:
   - gitcode_id: wujian99
     name: 伍俭
     email: 170985729@qq.com
+  - gitcode_id: cszhangyong
+    name: 张勇
+    email: zhangyong129@huawei.com
+  - gitcode_id: kuandeng1998
+    name: 邓宽
+    email: dengkuan1@huawei.com
   entry_configs: []

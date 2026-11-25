@@ -45,6 +45,8 @@ Biomolecule Computing SIG（生物分子计算 SIG）是面向生命科学领域
 - 张涛涛 [@starwinner](https://gitcode.com/starwinner), starwinner@yeah.net
 - 刘子恒 [@zh_liu](https://gitcode.com/zh_liu), liuziheng@huawei.com
 - 伍俭 [@wujian99](https://gitcode.com/wujian99), 170985729@qq.com
+- 张勇 [@cszhangyong](https://gitcode.com/cszhangyong), zhangyong129@huawei.com
+- 邓宽 [@kuandeng1998](https://gitcode.com/kuandeng1998), dengkuan1@huawei.com
 ## 社区运作
 ### 会议组织
 - 公开的会议时间：北京时间，两周一次例会，单周(每月第一、第三周，节假日)跳过，周五上午10:00~11:00
