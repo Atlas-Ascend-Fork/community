@@ -160,7 +160,7 @@ https://gitcode.com/cann/release-management/blob/master/9.1.0-beta.2/release-not
 |  性能测试|pass |3387 | 100%  | 100% |
 |  可靠性测试|pass   |312| 100%  |100% |
 |  继承特性测试|pass   |1316   | 100%  |100%   |
-|  兼容性测试 | 不涉及
+|  兼容性测试 | 不涉及   |  |   |  |
 
 
 ### 6.1.7 cann-ops-transformer
