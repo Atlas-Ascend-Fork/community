@@ -190,6 +190,7 @@ repositories:
   - gitcode_id: YANXI_ZHAO
   - gitcode_id: chentianyu19
   - gitcode_id: jinyingqi
+  - gitcode_id: yaoguangxiu
   entry_configs:
   - path:
     - cpudebug/include

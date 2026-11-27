@@ -48,6 +48,7 @@ Ascend C总体逻辑架构图如下所示：
     - 廖晓辉[@sjtulxh](https://gitcode.com/sjtulxh), *liaoxiaohui3@hisilicon.com*
     - 王筱治[@wangxiaozhi](https://gitcode.com/wangxiaozhi), *wangxiaozhi2@huawei.com*
     - 金瑛棋[@jinyingqi](https://gitcode.com/jinyingqi), *jinyingqi@huawei.com*
+    - 姚广修[@yaoguangxiu](https://gitcode.com/yaoguangxiu), *yaoguangxiu@huawei.com*
 
 - ### PyAsc：https://gitcode.com/cann/pyasc
   - #### 简介：Ascend C提供Python前端完备编程能力，支撑Python开发者实现极致性能算子
