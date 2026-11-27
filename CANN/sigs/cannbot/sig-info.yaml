@@ -27,7 +27,7 @@ repositories:
     - ops/ascendc-cross-gen-migration
     committers:
     - gitcode_id: junming222
-    - gitcode_id: jon_jin
+    - gitcode_id: guomc9
   - path:
     - tools
     committers:
@@ -52,12 +52,6 @@ repositories:
     - gitcode_id: jon_jin
   - path:
     - plugins-community/catlass-dsl-generator
-    - ops/catlass-cpp-design
-    - ops/catlass-cpp-develop
-    - ops/catlass-cpp-interface
-    - ops/catlass-cpp-knowledge
-    - ops/catlass-cpp-reference
-    - ops/catlass-cpp-test
     - ops/catlass-op-design
     - ops/catlass-op-develop
     - ops/catlass-op-perf-tune
@@ -65,6 +59,44 @@ repositories:
     - gitcode_id: longjihui
     - gitcode_id: DaiHuina1
     - gitcode_id: rxtfeng
+  - path:
+    - ops/catlass-cpp-design
+    - ops/catlass-cpp-develop
+    - ops/catlass-cpp-interface
+    - ops/catlass-cpp-knowledge
+    - ops/catlass-cpp-reference
+    - ops/catlass-cpp-test
+    committers:
+    - gitcode_id: yangziqi_007
+    - gitcode_id: longjihui
+    - gitcode_id: DaiHuina1
+  - path:
+    - ops/triton-op-designer
+    - ops/triton-op-coding
+    - ops/triton-op-verifier
+    committers:
+    - gitcode_id: guomc9
+    - gitcode_id: chenxingyu18
+    - gitcode_id: DaiHuina1
+  - path:
+    - community/model/model-recommend-adaptation
+    - community/model/model-recommend-analysis
+    - community/model/model-recommend-ascend-env-baseline
+    - community/model/model-recommend-baseline-run
+    - community/model/model-recommend-core-limit-stress
+    - community/model/model-recommend-custom-op-development
+    - community/model/model-recommend-flash-attention-fusion
+    - community/model/model-recommend-fusion-operator-adaptation
+    - community/model/model-recommend-ge-graph-optimization
+    - community/model/model-recommend-kernel-generation
+    - community/model/model-recommend-memory-access-optimize
+    - community/model/model-recommend-optimization-loop
+    - community/model/model-recommend-precision-comparison
+    - community/model/model-recommend-regression-baseline-mgmt
+    - community/model/model-recommend-runtime-debug
+    committers:
+    - gitcode_id: fanzhaoyun001
+    - gitcode_id: zihengwang2
   - path:
     - ops/cann-error-code-standard
     - ops/ops-error-code-remediation
@@ -143,6 +175,10 @@ repositories:
     - gitcode_id: guankarl
     - gitcode_id: gitcode-chenjiao
     - gitcode_id: ai_xin
+    - gitcode_id: fanzhaoyun001
+    - gitcode_id: guomc9
+    - gitcode_id: yangziqi_007
+    - gitcode_id: chenxingyu18
 - repo:
   - cann/cann-bench
   committers:
@@ -208,11 +244,26 @@ repositories:
     - gitcode_id: w00934874
   - path:
     - plugins-official/catlass-op-generator
-    - plugins-community/catlass-dsl-generator
     committers:
-    - gitcode_id: chenxingyu18
+    - gitcode_id: yangziqi_007
     - gitcode_id: longjihui
     - gitcode_id: DaiHuina1
+  - path:
+    - plugins-community/catlass-python-generator
+    committers:
+    - gitcode_id: longjihui
+    - gitcode_id: chenxingyu18
+    - gitcode_id: DaiHuina1
+  - path:
+    - plugins-official/ops-perf-optimize
+    committers:
+    - gitcode_id: xieshengwei1024
+    - gitcode_id: hanrui22
+  - path:
+    - plugins-community/model-recommend-infer-optimize
+    committers:
+    - gitcode_id: fanzhaoyun001
+    - gitcode_id: zihengwang2
   - path:
     - plugins-official/triton-op-generator
     committers:
@@ -260,6 +311,10 @@ repositories:
     - gitcode_id: cann_wangyq
     - gitcode_id: ddddwe
     - gitcode_id: gcw_P2Mh5H1S
+    - gitcode_id: xieshengwei1024
+    - gitcode_id: fanzhaoyun001
+    - gitcode_id: guomc9
+    - gitcode_id: yangziqi_007
 - repo:
   - cann/cannbot-knowledge
   committers:
@@ -282,3 +337,13 @@ repositories:
     committers:
     - gitcode_id: jinyingqi
     - gitcode_id: lczheng
+  - path:
+    - knowledge/ops/triton
+    committers:
+    - gitcode_id: guomc9
+    - gitcode_id: qq_41667743
+  - path:
+    - knowledge/ops/catlass
+    committers:
+    - gitcode_id: yangziqi_007
+    - gitcode_id: qq_41667743

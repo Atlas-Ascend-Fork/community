@@ -55,6 +55,10 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 管宏伟 [@guankarl](https://gitcode.com/guankarl), *guanhongwei3@huawei.com*
 - 陈娇 [@gitcode-chenjiao](https://gitcode.com/gitcode-chenjiao), *chenjiao31@huawei.com*
 - 艾鑫 [@ai_xin](https://gitcode.com/ai_xin), *aixin2@hisilicon.com*
+- 陈兴宇 [@chenxingyu18](https://gitcode.com/chenxingyu18), *chenxingyu18@huawei.com*
+- 范照云 [@fanzhaoyun001](https://gitcode.com/fanzhaoyun001), *fanzhaoyun1@hisilicon.com*
+- 郭铭策 [@guomc9](https://gitcode.com/guomc9)
+- 杨子奇 [@yangziqi_007](https://gitcode.com/yangziqi_007)
 
 **cann/cannbot**
 - 宋恺 [@songkai111](https://gitcode.com/songkai111)
@@ -80,6 +84,10 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 戴慧娜 [@DaiHuina1](https://gitcode.com/DaiHuina1), *daihuina1@huawei.com*
 - Cheng Yu [@ddddwe](https://gitcode.com/ddddwe), *cheng.yu1@huawei.com*
 - 范峻逸 [@gcw_P2Mh5H1S](https://gitcode.com/gcw_P2Mh5H1S), *fan.junyi@huawei.com*
+- 谢盛伟 [@xieshengwei1024](https://gitcode.com/xieshengwei1024)
+- 范照云 [@fanzhaoyun001](https://gitcode.com/fanzhaoyun001), *fanzhaoyun1@hisilicon.com*
+- 郭铭策 [@guomc9](https://gitcode.com/guomc9)
+- 杨子奇 [@yangziqi_007](https://gitcode.com/yangziqi_007)
 
 **cann/cann-bench**
 - 苏跃明 [@su-yueming](https://gitcode.com/su-yueming), *suyueming@huawei.com*
@@ -115,6 +123,8 @@ SIG 更多介绍请通过 [CANNBot](https://gitcode.com/cann/cannbot-skills) 代
 - 黄诗鹤 [@bianque](https://gitcode.com/bianque), *huangshihe2@hisilicon.com*
 - 李俊文 [@Lycheeeee](https://gitcode.com/Lycheeeee), *lijunwen13@hisilicon.com*
 - 金瑛棋 [@jinyingqi](https://gitcode.com/jinyingqi), *jinyingqi@huawei.com*
+- 郭铭策 [@guomc9](https://gitcode.com/guomc9)
+- 杨子奇 [@yangziqi_007](https://gitcode.com/yangziqi_007)
 
 # SIG订阅
 
