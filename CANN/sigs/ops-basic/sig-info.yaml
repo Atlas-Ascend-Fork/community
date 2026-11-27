@@ -73,6 +73,7 @@ repositories:
   - gitcode_id: yourealize
   - gitcode_id: sunhao_hw
   - gitcode_id: clinglai0517
+  - gitcode_id: rsj007
   entry_configs:
   - path:
     - "*/*/op_host/op_api/*.h"
@@ -105,6 +106,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: yourealize
     - gitcode_id: clinglai0517
+    - gitcode_id: rsj007
   - path:
     - image/grid_sample
     - image/grid_sample2_d
@@ -124,6 +126,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: yourealize
     - gitcode_id: clinglai0517
+    - gitcode_id: rsj007
   - path:
     - image/image_warp_offsets
     committers:
@@ -136,6 +139,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: yourealize
     - gitcode_id: clinglai0517
+    - gitcode_id: rsj007
   - path:
     - image/resize_bicubic_v2
     - image/resize_bicubic_v2_grad
@@ -160,6 +164,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: yourealize
     - gitcode_id: clinglai0517
+    - gitcode_id: rsj007
   - path:
     - image/resize_nearest_neighbor_v2
     - image/resize_nearest_neighbor_v2_grad
@@ -195,6 +200,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: yourealize
     - gitcode_id: clinglai0517
+    - gitcode_id: rsj007
   - path:
     - objdetect/iou_v2
     - objdetect/non_max_suppression_v6
@@ -213,6 +219,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: sunhao_hw
     - gitcode_id: clinglai0517
+    - gitcode_id: rsj007
   - path:
     - experimental
     committers:
@@ -243,6 +250,7 @@ repositories:
     - gitcode_id: yue-ma
     - gitcode_id: sunhao_hw
     - gitcode_id: clinglai0517
+    - gitcode_id: rsj007
 - repo:
   - cann/ops-math
   committers:
