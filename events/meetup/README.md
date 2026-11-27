@@ -86,6 +86,7 @@
 ## CANN Insight系列直播
 | 时间 | 直播主题 | 归属SIG |材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261125 | openPangu基于昇腾950超节点低精训推实践--技术总览+低精训练专题 | - | [链接](./slides/950/20261125) | [链接](https://www.bilibili.com/video/BV1Z7yUzcEii) |
 | 20261110 | DeepSeek-V4.1-Flash MegaKernel + CANNBot-DSL 实践：大模型推理如何突破性能瓶颈 | sig-cannbot | [链接](./slides/sig-cannbot/20261110) | [链接](https://www.bilibili.com/video/BV1nHW36cEyq) |
 | 20261026 | DeepSeek推理性能跃迁4.5倍，ACL Graph技术解密 | sig-runtime | [链接](./slides/sig-runtime/20261026) | [链接](https://www.bilibili.com/video/BV1oUnZ67EZx) |
 | 20261010 | CANNBot-DSL：用 Agent Friendly 编程范式，生成高性能的复杂融合算子 | sig-cannbot | [链接](./slides/sig-cannbot/20261010) | [链接](https://www.bilibili.com/video/BV1irpu61EA6/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -147,6 +148,8 @@
 ## CANN 线下meetup
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261121 | CANN 油气化工专场meetup · 北京站 | - | [链接](./slides/meetup/20261121) | [链接](https://www.bilibili.com/video/BV1tHy6zxEDb) |
+| 20261121 | CANNBot × MegaKernel：迈向昇腾算子开发的未来 · meetup 北京站 | - | [链接](./slides/meetup/20261121) | [链接](https://www.bilibili.com/video/BV1VKyfzJEgk) |
 | 20261024 | PyPTO算子编程专场 CANN开发者Meetup | - | [链接](./slides/meetup/20261024) | [链接](https://www.bilibili.com/video/BV1cRnR62EBy) |
 | 20261017 | CANN Bench Season1线下技术沙龙 | - | [链接](./slides/meetup/20261017) | [链接](https://www.bilibili.com/video/BV1Jtx56rEEu) |
 | 20260815 | CANN开源社区 线下meetup 南京站 | - | [链接](./slides/meetup/20260815) | [链接](https://www.bilibili.com/video/BV18Tbv6sEJL/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
@@ -161,6 +164,8 @@
 ## CANN 竞赛活动
 | 时间 | 直播主题 | 归属SIG | 材料归档地址 | 直播回放地址 |
 |--------|------|------|------|------|
+| 20261126 | CANN挑战赛 CANNBot使用指南解读 | - | [链接](./slides/cann-learning-hub/20261126) | [链接](https://www.bilibili.com/video/BV16GyUzeEbK) |
+| 20261120 | CANN挑战赛全国总决赛赛题解析 | - | [链接](./slides/cann-learning-hub/20261120) | [链接](https://www.bilibili.com/video/BV1eEyWzWEQj) |
 | 20261030 | CANN挑战赛 决赛赛题解析（杭厦、上合） | - | [链接](./slides/cann-learning-hub/20261030) | [链接](https://www.bilibili.com/video/BV159xe6sETx) |
 | 20261023 | CANN挑战赛 决赛赛题解析 | - | [链接](./slides/cann-learning-hub/20261023) | [链接](https://www.bilibili.com/video/BV1FSnt6KEx1) |
 | 20260915 | CANN算子天梯赛8-9月赛题解析 | - | [链接](./slides/cann-learning-hub/20260915) | [链接](https://www.bilibili.com/video/BV1ohen63EML/?vd_source=40a01afa50d31f7f76277e5baa2faa1f) |
