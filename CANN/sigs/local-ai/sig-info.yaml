@@ -19,7 +19,7 @@ repositories:
   - gitcode_id: LiuXinxin23
   entry_configs:
   - path:
-    - cann_local_lm/converter/quant
+    - cann_local_lm/quant
     committers:
     - gitcode_id: daijiayin
     - gitcode_id: nice_123
